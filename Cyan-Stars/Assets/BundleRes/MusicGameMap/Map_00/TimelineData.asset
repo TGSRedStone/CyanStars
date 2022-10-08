@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: TimelineData
   m_EditorClassIdentifier: 
   Data:
-    Length: 5000
+    Length: 236918
     NoteTrackData:
       BaseSpeed: 4
       SpeedRate: 1
@@ -22,16 +22,5833 @@ MonoBehaviour:
         - StartTime: 0
           EasingType: 0
           Coefficient: 20
-          EndTime: 5000
+          EndTime: 236918
           ViewStartTime: 0
-          ViewEndTime: 400000
+          ViewEndTime: 18953440
           NoteDatas:
           - Type: 0
-            Pos: 0
-            JudgeTime: 1000
-            HoldEndTime: 0
+            Pos: 0.593
+            JudgeTime: 12830
+            HoldEndTime: 12830
             PromptToneType: 0
-            ViewJudgeTime: 80000
+            ViewJudgeTime: 1026400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.195
+            JudgeTime: 13630
+            HoldEndTime: 13630
+            PromptToneType: 0
+            ViewJudgeTime: 1090400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 14030
+            HoldEndTime: 14030
+            PromptToneType: 0
+            ViewJudgeTime: 1122400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 14830
+            HoldEndTime: 14830
+            PromptToneType: 0
+            ViewJudgeTime: 1186400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.585
+            JudgeTime: 15230
+            HoldEndTime: 15230
+            PromptToneType: 0
+            ViewJudgeTime: 1218400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.64
+            JudgeTime: 16030
+            HoldEndTime: 16030
+            PromptToneType: 0
+            ViewJudgeTime: 1282400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.23
+            JudgeTime: 16830
+            HoldEndTime: 16830
+            PromptToneType: 0
+            ViewJudgeTime: 1346400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.632
+            JudgeTime: 17230
+            HoldEndTime: 17230
+            PromptToneType: 0
+            ViewJudgeTime: 1378400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.18
+            JudgeTime: 18030
+            HoldEndTime: 18030
+            PromptToneType: 0
+            ViewJudgeTime: 1442400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.62
+            JudgeTime: 18430
+            HoldEndTime: 18430
+            PromptToneType: 0
+            ViewJudgeTime: 1474400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 19230
+            HoldEndTime: 19230
+            PromptToneType: 0
+            ViewJudgeTime: 1538400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.304
+            JudgeTime: 19430
+            HoldEndTime: 19430
+            PromptToneType: 0
+            ViewJudgeTime: 1554400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.675
+            JudgeTime: 19630
+            HoldEndTime: 19630
+            PromptToneType: 0
+            ViewJudgeTime: 1570400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.273
+            JudgeTime: 19830
+            HoldEndTime: 19830
+            PromptToneType: 0
+            ViewJudgeTime: 1586400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 20030
+            HoldEndTime: 20030
+            PromptToneType: 0
+            ViewJudgeTime: 1602400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 20030
+            HoldEndTime: 20030
+            PromptToneType: 0
+            ViewJudgeTime: 1602400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.199
+            JudgeTime: 20430
+            HoldEndTime: 20430
+            PromptToneType: 0
+            ViewJudgeTime: 1634400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.675
+            JudgeTime: 20630
+            HoldEndTime: 20630
+            PromptToneType: 0
+            ViewJudgeTime: 1650400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.386
+            JudgeTime: 21030
+            HoldEndTime: 21030
+            PromptToneType: 0
+            ViewJudgeTime: 1682400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.62
+            JudgeTime: 21430
+            HoldEndTime: 21430
+            PromptToneType: 0
+            ViewJudgeTime: 1714400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 21630
+            HoldEndTime: 21630
+            PromptToneType: 0
+            ViewJudgeTime: 1730400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 21630
+            HoldEndTime: 21630
+            PromptToneType: 0
+            ViewJudgeTime: 1730400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 22030
+            HoldEndTime: 22030
+            PromptToneType: 0
+            ViewJudgeTime: 1762400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 22230
+            HoldEndTime: 22230
+            PromptToneType: 0
+            ViewJudgeTime: 1778400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.718
+            JudgeTime: 22430
+            HoldEndTime: 22430
+            PromptToneType: 0
+            ViewJudgeTime: 1794400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.304
+            JudgeTime: 22630
+            HoldEndTime: 22630
+            PromptToneType: 0
+            ViewJudgeTime: 1810400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.566
+            JudgeTime: 22830
+            HoldEndTime: 22830
+            PromptToneType: 0
+            ViewJudgeTime: 1826400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.117
+            JudgeTime: 23030
+            HoldEndTime: 23030
+            PromptToneType: 0
+            ViewJudgeTime: 1842400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 23230
+            HoldEndTime: 23230
+            PromptToneType: 0
+            ViewJudgeTime: 1858400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 23230
+            HoldEndTime: 23230
+            PromptToneType: 0
+            ViewJudgeTime: 1858400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.18
+            JudgeTime: 23630
+            HoldEndTime: 23630
+            PromptToneType: 0
+            ViewJudgeTime: 1890400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.578
+            JudgeTime: 23830
+            HoldEndTime: 23830
+            PromptToneType: 0
+            ViewJudgeTime: 1906400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.671
+            JudgeTime: 24230
+            HoldEndTime: 24230
+            PromptToneType: 0
+            ViewJudgeTime: 1938400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.297
+            JudgeTime: 24630
+            HoldEndTime: 24630
+            PromptToneType: 0
+            ViewJudgeTime: 1970400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 24830
+            HoldEndTime: 24830
+            PromptToneType: 0
+            ViewJudgeTime: 1986400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 24830
+            HoldEndTime: 24830
+            PromptToneType: 0
+            ViewJudgeTime: 1986400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.66
+            JudgeTime: 25230
+            HoldEndTime: 25230
+            PromptToneType: 0
+            ViewJudgeTime: 2018400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.156
+            JudgeTime: 25430
+            HoldEndTime: 25430
+            PromptToneType: 0
+            ViewJudgeTime: 2034400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.62
+            JudgeTime: 25630
+            HoldEndTime: 25630
+            PromptToneType: 0
+            ViewJudgeTime: 2050400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.343
+            JudgeTime: 25830
+            HoldEndTime: 25830
+            PromptToneType: 0
+            ViewJudgeTime: 2066400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.605
+            JudgeTime: 26030
+            HoldEndTime: 26030
+            PromptToneType: 0
+            ViewJudgeTime: 2082400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.14
+            JudgeTime: 26230
+            HoldEndTime: 26230
+            PromptToneType: 0
+            ViewJudgeTime: 2098400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 26430
+            HoldEndTime: 26430
+            PromptToneType: 0
+            ViewJudgeTime: 2114400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 26430
+            HoldEndTime: 26430
+            PromptToneType: 0
+            ViewJudgeTime: 2114400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 26830
+            HoldEndTime: 26830
+            PromptToneType: 0
+            ViewJudgeTime: 2146400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.535
+            JudgeTime: 27030
+            HoldEndTime: 27030
+            PromptToneType: 0
+            ViewJudgeTime: 2162400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.609
+            JudgeTime: 27430
+            HoldEndTime: 27430
+            PromptToneType: 0
+            ViewJudgeTime: 2194400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.476
+            JudgeTime: 27830
+            HoldEndTime: 27830
+            PromptToneType: 0
+            ViewJudgeTime: 2226400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 28030
+            HoldEndTime: 28030
+            PromptToneType: 0
+            ViewJudgeTime: 2242400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 28030
+            HoldEndTime: 28030
+            PromptToneType: 0
+            ViewJudgeTime: 2242400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.597
+            JudgeTime: 28430
+            HoldEndTime: 28430
+            PromptToneType: 0
+            ViewJudgeTime: 2274400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.398
+            JudgeTime: 28630
+            HoldEndTime: 28630
+            PromptToneType: 0
+            ViewJudgeTime: 2290400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 28830
+            HoldEndTime: 28830
+            PromptToneType: 0
+            ViewJudgeTime: 2306400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 29030
+            HoldEndTime: 29030
+            PromptToneType: 0
+            ViewJudgeTime: 2322400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.636
+            JudgeTime: 29230
+            HoldEndTime: 29230
+            PromptToneType: 0
+            ViewJudgeTime: 2338400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.273
+            JudgeTime: 29430
+            HoldEndTime: 29430
+            PromptToneType: 0
+            ViewJudgeTime: 2354400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 29630
+            HoldEndTime: 29630
+            PromptToneType: 0
+            ViewJudgeTime: 2370400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 29630
+            HoldEndTime: 29630
+            PromptToneType: 0
+            ViewJudgeTime: 2370400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.656
+            JudgeTime: 30030
+            HoldEndTime: 30030
+            PromptToneType: 0
+            ViewJudgeTime: 2402400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.281
+            JudgeTime: 30230
+            HoldEndTime: 30230
+            PromptToneType: 0
+            ViewJudgeTime: 2418400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.16
+            JudgeTime: 30630
+            HoldEndTime: 30630
+            PromptToneType: 0
+            ViewJudgeTime: 2450400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.269
+            JudgeTime: 31030
+            HoldEndTime: 31030
+            PromptToneType: 0
+            ViewJudgeTime: 2482400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 31230
+            HoldEndTime: 31230
+            PromptToneType: 0
+            ViewJudgeTime: 2498400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 31230
+            HoldEndTime: 31230
+            PromptToneType: 0
+            ViewJudgeTime: 2498400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 31630
+            HoldEndTime: 31630
+            PromptToneType: 0
+            ViewJudgeTime: 2530400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 31830
+            HoldEndTime: 31830
+            PromptToneType: 0
+            ViewJudgeTime: 2546400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 32030
+            HoldEndTime: 32030
+            PromptToneType: 0
+            ViewJudgeTime: 2562400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 32230
+            HoldEndTime: 32230
+            PromptToneType: 0
+            ViewJudgeTime: 2578400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 32430
+            HoldEndTime: 32430
+            PromptToneType: 0
+            ViewJudgeTime: 2594400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.051
+            JudgeTime: 32630
+            HoldEndTime: 32630
+            PromptToneType: 0
+            ViewJudgeTime: 2610400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.699
+            JudgeTime: 32830
+            HoldEndTime: 33430
+            PromptToneType: 0
+            ViewJudgeTime: 2626400
+            HoldViewEndTime: 2674400
+          - Type: 0
+            Pos: 0.066
+            JudgeTime: 33430
+            HoldEndTime: 33430
+            PromptToneType: 0
+            ViewJudgeTime: 2674400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.297
+            JudgeTime: 33630
+            HoldEndTime: 34430
+            PromptToneType: 0
+            ViewJudgeTime: 2690400
+            HoldViewEndTime: 2754400
+          - Type: 0
+            Pos: 0.632
+            JudgeTime: 34430
+            HoldEndTime: 34430
+            PromptToneType: 0
+            ViewJudgeTime: 2754400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.098
+            JudgeTime: 34630
+            HoldEndTime: 34630
+            PromptToneType: 0
+            ViewJudgeTime: 2770400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 35230
+            HoldEndTime: 35230
+            PromptToneType: 0
+            ViewJudgeTime: 2818400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.297
+            JudgeTime: 35430
+            HoldEndTime: 35430
+            PromptToneType: 0
+            ViewJudgeTime: 2834400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 35630
+            HoldEndTime: 35630
+            PromptToneType: 0
+            ViewJudgeTime: 2850400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.074
+            JudgeTime: 35830
+            HoldEndTime: 35830
+            PromptToneType: 0
+            ViewJudgeTime: 2866400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.597
+            JudgeTime: 36030
+            HoldEndTime: 36630
+            PromptToneType: 0
+            ViewJudgeTime: 2882400
+            HoldViewEndTime: 2930400
+          - Type: 0
+            Pos: 0.109
+            JudgeTime: 36630
+            HoldEndTime: 36630
+            PromptToneType: 0
+            ViewJudgeTime: 2930400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.597
+            JudgeTime: 36830
+            HoldEndTime: 37630
+            PromptToneType: 0
+            ViewJudgeTime: 2946400
+            HoldViewEndTime: 3010400
+          - Type: 1
+            Pos: 0.148
+            JudgeTime: 37630
+            HoldEndTime: 38430
+            PromptToneType: 0
+            ViewJudgeTime: 3010400
+            HoldViewEndTime: 3074400
+          - Type: 0
+            Pos: 0.734
+            JudgeTime: 38430
+            HoldEndTime: 38430
+            PromptToneType: 0
+            ViewJudgeTime: 3074400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.304
+            JudgeTime: 38630
+            HoldEndTime: 38630
+            PromptToneType: 0
+            ViewJudgeTime: 3090400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 38830
+            HoldEndTime: 38830
+            PromptToneType: 0
+            ViewJudgeTime: 3106400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.051
+            JudgeTime: 39030
+            HoldEndTime: 39030
+            PromptToneType: 0
+            ViewJudgeTime: 3122400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.652
+            JudgeTime: 39230
+            HoldEndTime: 39830
+            PromptToneType: 0
+            ViewJudgeTime: 3138400
+            HoldViewEndTime: 3186400
+          - Type: 0
+            Pos: 0.055
+            JudgeTime: 39830
+            HoldEndTime: 39830
+            PromptToneType: 0
+            ViewJudgeTime: 3186400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.304
+            JudgeTime: 40030
+            HoldEndTime: 40830
+            PromptToneType: 0
+            ViewJudgeTime: 3202400
+            HoldViewEndTime: 3266400
+          - Type: 1
+            Pos: 0.667
+            JudgeTime: 40830
+            HoldEndTime: 41230
+            PromptToneType: 0
+            ViewJudgeTime: 3266400
+            HoldViewEndTime: 3298400
+          - Type: 1
+            Pos: 0.117
+            JudgeTime: 41230
+            HoldEndTime: 41630
+            PromptToneType: 0
+            ViewJudgeTime: 3298400
+            HoldViewEndTime: 3330400
+          - Type: 0
+            Pos: 0.702
+            JudgeTime: 41630
+            HoldEndTime: 41630
+            PromptToneType: 0
+            ViewJudgeTime: 3330400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.702
+            JudgeTime: 41830
+            HoldEndTime: 41830
+            PromptToneType: 0
+            ViewJudgeTime: 3346400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 42230
+            HoldEndTime: 42230
+            PromptToneType: 0
+            ViewJudgeTime: 3378400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 42430
+            HoldEndTime: 42430
+            PromptToneType: 0
+            ViewJudgeTime: 3394400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.691
+            JudgeTime: 42830
+            HoldEndTime: 42830
+            PromptToneType: 0
+            ViewJudgeTime: 3426400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 43030
+            HoldEndTime: 43030
+            PromptToneType: 0
+            ViewJudgeTime: 3442400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.745
+            JudgeTime: 43830
+            HoldEndTime: 44430
+            PromptToneType: 0
+            ViewJudgeTime: 3506400
+            HoldViewEndTime: 3554400
+          - Type: 0
+            Pos: 0.09
+            JudgeTime: 44430
+            HoldEndTime: 44430
+            PromptToneType: 0
+            ViewJudgeTime: 3554400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.695
+            JudgeTime: 44830
+            HoldEndTime: 44830
+            PromptToneType: 0
+            ViewJudgeTime: 3586400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.246
+            JudgeTime: 45030
+            HoldEndTime: 45030
+            PromptToneType: 0
+            ViewJudgeTime: 3602400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.542
+            JudgeTime: 45230
+            HoldEndTime: 45230
+            PromptToneType: 0
+            ViewJudgeTime: 3618400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.086
+            JudgeTime: 45430
+            HoldEndTime: 45430
+            PromptToneType: 0
+            ViewJudgeTime: 3634400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 45630
+            HoldEndTime: 45630
+            PromptToneType: 0
+            ViewJudgeTime: 3650400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.699
+            JudgeTime: 45630
+            HoldEndTime: 46230
+            PromptToneType: 0
+            ViewJudgeTime: 3650400
+            HoldViewEndTime: 3698400
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 46230
+            HoldEndTime: 46230
+            PromptToneType: 0
+            ViewJudgeTime: 3698400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 46430
+            HoldEndTime: 46430
+            PromptToneType: 0
+            ViewJudgeTime: 3714400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 46430
+            HoldEndTime: 47230
+            PromptToneType: 0
+            ViewJudgeTime: 3714400
+            HoldViewEndTime: 3778400
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 47230
+            HoldEndTime: 47230
+            PromptToneType: 0
+            ViewJudgeTime: 3778400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 47430
+            HoldEndTime: 47430
+            PromptToneType: 0
+            ViewJudgeTime: 3794400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 48030
+            HoldEndTime: 48030
+            PromptToneType: 0
+            ViewJudgeTime: 3842400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.351
+            JudgeTime: 48030
+            HoldEndTime: 48030
+            PromptToneType: 0
+            ViewJudgeTime: 3842400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.113
+            JudgeTime: 48230
+            HoldEndTime: 48230
+            PromptToneType: 0
+            ViewJudgeTime: 3858400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.464
+            JudgeTime: 48430
+            HoldEndTime: 48430
+            PromptToneType: 0
+            ViewJudgeTime: 3874400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.281
+            JudgeTime: 48630
+            HoldEndTime: 48630
+            PromptToneType: 0
+            ViewJudgeTime: 3890400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 48830
+            HoldEndTime: 48830
+            PromptToneType: 0
+            ViewJudgeTime: 3906400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.699
+            JudgeTime: 48830
+            HoldEndTime: 49430
+            PromptToneType: 0
+            ViewJudgeTime: 3906400
+            HoldViewEndTime: 3954400
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 49430
+            HoldEndTime: 49430
+            PromptToneType: 0
+            ViewJudgeTime: 3954400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 49630
+            HoldEndTime: 49630
+            PromptToneType: 0
+            ViewJudgeTime: 3970400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.5
+            JudgeTime: 49630
+            HoldEndTime: 50430
+            PromptToneType: 0
+            ViewJudgeTime: 3970400
+            HoldViewEndTime: 4034400
+          - Type: 1
+            Pos: 0.051
+            JudgeTime: 50430
+            HoldEndTime: 51230
+            PromptToneType: 0
+            ViewJudgeTime: 4034400
+            HoldViewEndTime: 4098400
+          - Type: 0
+            Pos: 0.749
+            JudgeTime: 51230
+            HoldEndTime: 51230
+            PromptToneType: 0
+            ViewJudgeTime: 4098400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.23
+            JudgeTime: 51430
+            HoldEndTime: 51430
+            PromptToneType: 0
+            ViewJudgeTime: 4114400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.503
+            JudgeTime: 51630
+            HoldEndTime: 51630
+            PromptToneType: 0
+            ViewJudgeTime: 4130400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.129
+            JudgeTime: 51830
+            HoldEndTime: 51830
+            PromptToneType: 0
+            ViewJudgeTime: 4146400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.652
+            JudgeTime: 52030
+            HoldEndTime: 52030
+            PromptToneType: 0
+            ViewJudgeTime: 4162400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.39
+            JudgeTime: 52230
+            HoldEndTime: 52230
+            PromptToneType: 0
+            ViewJudgeTime: 4178400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 52430
+            HoldEndTime: 52430
+            PromptToneType: 0
+            ViewJudgeTime: 4194400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 52630
+            HoldEndTime: 52630
+            PromptToneType: 0
+            ViewJudgeTime: 4210400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 52830
+            HoldEndTime: 52830
+            PromptToneType: 0
+            ViewJudgeTime: 4226400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 53030
+            HoldEndTime: 53030
+            PromptToneType: 0
+            ViewJudgeTime: 4242400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 53230
+            HoldEndTime: 53230
+            PromptToneType: 0
+            ViewJudgeTime: 4258400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 53430
+            HoldEndTime: 53430
+            PromptToneType: 0
+            ViewJudgeTime: 4274400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 53630
+            HoldEndTime: 53630
+            PromptToneType: 0
+            ViewJudgeTime: 4290400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 53830
+            HoldEndTime: 53830
+            PromptToneType: 0
+            ViewJudgeTime: 4306400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 54030
+            HoldEndTime: 54030
+            PromptToneType: 0
+            ViewJudgeTime: 4322400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 54230
+            HoldEndTime: 54230
+            PromptToneType: 0
+            ViewJudgeTime: 4338400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 54430
+            HoldEndTime: 54430
+            PromptToneType: 0
+            ViewJudgeTime: 4354400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 54630
+            HoldEndTime: 54630
+            PromptToneType: 0
+            ViewJudgeTime: 4370400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 54830
+            HoldEndTime: 54830
+            PromptToneType: 0
+            ViewJudgeTime: 4386400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 55030
+            HoldEndTime: 55030
+            PromptToneType: 0
+            ViewJudgeTime: 4402400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 55230
+            HoldEndTime: 55230
+            PromptToneType: 0
+            ViewJudgeTime: 4418400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 55430
+            HoldEndTime: 55430
+            PromptToneType: 0
+            ViewJudgeTime: 4434400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 55630
+            HoldEndTime: 55630
+            PromptToneType: 0
+            ViewJudgeTime: 4450400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 55830
+            HoldEndTime: 55830
+            PromptToneType: 0
+            ViewJudgeTime: 4466400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 56230
+            HoldEndTime: 56230
+            PromptToneType: 0
+            ViewJudgeTime: 4498400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 56230
+            HoldEndTime: 56230
+            PromptToneType: 0
+            ViewJudgeTime: 4498400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 56430
+            HoldEndTime: 56430
+            PromptToneType: 0
+            ViewJudgeTime: 4514400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 56430
+            HoldEndTime: 56430
+            PromptToneType: 0
+            ViewJudgeTime: 4514400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.168
+            JudgeTime: 56830
+            HoldEndTime: 56830
+            PromptToneType: 0
+            ViewJudgeTime: 4546400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.531
+            JudgeTime: 57230
+            HoldEndTime: 57230
+            PromptToneType: 0
+            ViewJudgeTime: 4578400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 57630
+            HoldEndTime: 57630
+            PromptToneType: 0
+            ViewJudgeTime: 4610400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.699
+            JudgeTime: 57630
+            HoldEndTime: 58430
+            PromptToneType: 0
+            ViewJudgeTime: 4610400
+            HoldViewEndTime: 4674400
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 57830
+            HoldEndTime: 57830
+            PromptToneType: 0
+            ViewJudgeTime: 4626400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 58230
+            HoldEndTime: 58230
+            PromptToneType: 0
+            ViewJudgeTime: 4658400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 58430
+            HoldEndTime: 58430
+            PromptToneType: 0
+            ViewJudgeTime: 4674400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 58430
+            HoldEndTime: 58430
+            PromptToneType: 0
+            ViewJudgeTime: 4674400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 58830
+            HoldEndTime: 58830
+            PromptToneType: 0
+            ViewJudgeTime: 4706400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 59030
+            HoldEndTime: 59030
+            PromptToneType: 0
+            ViewJudgeTime: 4722400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 59230
+            HoldEndTime: 59230
+            PromptToneType: 0
+            ViewJudgeTime: 4738400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 59430
+            HoldEndTime: 59430
+            PromptToneType: 0
+            ViewJudgeTime: 4754400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 59630
+            HoldEndTime: 59630
+            PromptToneType: 0
+            ViewJudgeTime: 4770400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 59830
+            HoldEndTime: 59830
+            PromptToneType: 0
+            ViewJudgeTime: 4786400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 60030
+            HoldEndTime: 60030
+            PromptToneType: 0
+            ViewJudgeTime: 4802400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 60030
+            HoldEndTime: 60030
+            PromptToneType: 0
+            ViewJudgeTime: 4802400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 60430
+            HoldEndTime: 60430
+            PromptToneType: 0
+            ViewJudgeTime: 4834400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 60630
+            HoldEndTime: 60630
+            PromptToneType: 0
+            ViewJudgeTime: 4850400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 60830
+            HoldEndTime: 60830
+            PromptToneType: 0
+            ViewJudgeTime: 4866400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 61030
+            HoldEndTime: 61030
+            PromptToneType: 0
+            ViewJudgeTime: 4882400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 61230
+            HoldEndTime: 61230
+            PromptToneType: 0
+            ViewJudgeTime: 4898400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 61430
+            HoldEndTime: 61430
+            PromptToneType: 0
+            ViewJudgeTime: 4914400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 61630
+            HoldEndTime: 61630
+            PromptToneType: 0
+            ViewJudgeTime: 4930400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 61630
+            HoldEndTime: 61630
+            PromptToneType: 0
+            ViewJudgeTime: 4930400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 62030
+            HoldEndTime: 62030
+            PromptToneType: 0
+            ViewJudgeTime: 4962400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 62230
+            HoldEndTime: 62230
+            PromptToneType: 0
+            ViewJudgeTime: 4978400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 62430
+            HoldEndTime: 62430
+            PromptToneType: 0
+            ViewJudgeTime: 4994400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 62630
+            HoldEndTime: 62630
+            PromptToneType: 0
+            ViewJudgeTime: 5010400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 62830
+            HoldEndTime: 62830
+            PromptToneType: 0
+            ViewJudgeTime: 5026400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 63030
+            HoldEndTime: 63030
+            PromptToneType: 0
+            ViewJudgeTime: 5042400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 63230
+            HoldEndTime: 63230
+            PromptToneType: 0
+            ViewJudgeTime: 5058400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 63230
+            HoldEndTime: 63230
+            PromptToneType: 0
+            ViewJudgeTime: 5058400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 63630
+            HoldEndTime: 63630
+            PromptToneType: 0
+            ViewJudgeTime: 5090400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 63830
+            HoldEndTime: 63830
+            PromptToneType: 0
+            ViewJudgeTime: 5106400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 64030
+            HoldEndTime: 64030
+            PromptToneType: 0
+            ViewJudgeTime: 5122400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 64230
+            HoldEndTime: 64230
+            PromptToneType: 0
+            ViewJudgeTime: 5138400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 64630
+            HoldEndTime: 64630
+            PromptToneType: 0
+            ViewJudgeTime: 5170400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 64830
+            HoldEndTime: 64830
+            PromptToneType: 0
+            ViewJudgeTime: 5186400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 64830
+            HoldEndTime: 64830
+            PromptToneType: 0
+            ViewJudgeTime: 5186400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 65230
+            HoldEndTime: 65230
+            PromptToneType: 0
+            ViewJudgeTime: 5218400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 65430
+            HoldEndTime: 65430
+            PromptToneType: 0
+            ViewJudgeTime: 5234400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 65630
+            HoldEndTime: 65630
+            PromptToneType: 0
+            ViewJudgeTime: 5250400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 65830
+            HoldEndTime: 65830
+            PromptToneType: 0
+            ViewJudgeTime: 5266400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 66030
+            HoldEndTime: 66030
+            PromptToneType: 0
+            ViewJudgeTime: 5282400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 66230
+            HoldEndTime: 66230
+            PromptToneType: 0
+            ViewJudgeTime: 5298400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 66430
+            HoldEndTime: 66430
+            PromptToneType: 0
+            ViewJudgeTime: 5314400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 66430
+            HoldEndTime: 66430
+            PromptToneType: 0
+            ViewJudgeTime: 5314400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 66830
+            HoldEndTime: 66830
+            PromptToneType: 0
+            ViewJudgeTime: 5346400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 67030
+            HoldEndTime: 67030
+            PromptToneType: 0
+            ViewJudgeTime: 5362400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 67230
+            HoldEndTime: 67230
+            PromptToneType: 0
+            ViewJudgeTime: 5378400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 67430
+            HoldEndTime: 67430
+            PromptToneType: 0
+            ViewJudgeTime: 5394400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 67830
+            HoldEndTime: 67830
+            PromptToneType: 0
+            ViewJudgeTime: 5426400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 68030
+            HoldEndTime: 68030
+            PromptToneType: 0
+            ViewJudgeTime: 5442400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 68030
+            HoldEndTime: 68030
+            PromptToneType: 0
+            ViewJudgeTime: 5442400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 68430
+            HoldEndTime: 68430
+            PromptToneType: 0
+            ViewJudgeTime: 5474400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 68630
+            HoldEndTime: 68630
+            PromptToneType: 0
+            ViewJudgeTime: 5490400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 68830
+            HoldEndTime: 68830
+            PromptToneType: 0
+            ViewJudgeTime: 5506400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 69030
+            HoldEndTime: 69030
+            PromptToneType: 0
+            ViewJudgeTime: 5522400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 69630
+            HoldEndTime: 69630
+            PromptToneType: 0
+            ViewJudgeTime: 5570400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 69630
+            HoldEndTime: 69630
+            PromptToneType: 0
+            ViewJudgeTime: 5570400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 70030
+            HoldEndTime: 70030
+            PromptToneType: 0
+            ViewJudgeTime: 5602400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 70030
+            HoldEndTime: 70030
+            PromptToneType: 0
+            ViewJudgeTime: 5602400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 70430
+            HoldEndTime: 70430
+            PromptToneType: 0
+            ViewJudgeTime: 5634400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 70630
+            HoldEndTime: 70630
+            PromptToneType: 0
+            ViewJudgeTime: 5650400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.734
+            JudgeTime: 70830
+            HoldEndTime: 70830
+            PromptToneType: 0
+            ViewJudgeTime: 5666400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.059
+            JudgeTime: 71030
+            HoldEndTime: 71030
+            PromptToneType: 0
+            ViewJudgeTime: 5682400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 71230
+            HoldEndTime: 71230
+            PromptToneType: 0
+            ViewJudgeTime: 5698400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.168
+            JudgeTime: 71430
+            HoldEndTime: 71430
+            PromptToneType: 0
+            ViewJudgeTime: 5714400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.706
+            JudgeTime: 71630
+            HoldEndTime: 71630
+            PromptToneType: 0
+            ViewJudgeTime: 5730400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.312
+            JudgeTime: 71830
+            HoldEndTime: 71830
+            PromptToneType: 0
+            ViewJudgeTime: 5746400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.039
+            JudgeTime: 72030
+            HoldEndTime: 72030
+            PromptToneType: 0
+            ViewJudgeTime: 5762400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.71
+            JudgeTime: 72230
+            HoldEndTime: 72230
+            PromptToneType: 0
+            ViewJudgeTime: 5778400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 72630
+            HoldEndTime: 73230
+            PromptToneType: 0
+            ViewJudgeTime: 5810400
+            HoldViewEndTime: 5858400
+          - Type: 0
+            Pos: 0.741
+            JudgeTime: 73230
+            HoldEndTime: 73230
+            PromptToneType: 0
+            ViewJudgeTime: 5858400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.566
+            JudgeTime: 73430
+            HoldEndTime: 73430
+            PromptToneType: 0
+            ViewJudgeTime: 5874400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.051
+            JudgeTime: 73630
+            HoldEndTime: 73630
+            PromptToneType: 0
+            ViewJudgeTime: 5890400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 73830
+            HoldEndTime: 73830
+            PromptToneType: 0
+            ViewJudgeTime: 5906400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 74030
+            HoldEndTime: 74030
+            PromptToneType: 0
+            ViewJudgeTime: 5922400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.749
+            JudgeTime: 74230
+            HoldEndTime: 74230
+            PromptToneType: 0
+            ViewJudgeTime: 5938400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 74430
+            HoldEndTime: 74430
+            PromptToneType: 0
+            ViewJudgeTime: 5954400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 74630
+            HoldEndTime: 74630
+            PromptToneType: 0
+            ViewJudgeTime: 5970400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 74830
+            HoldEndTime: 74830
+            PromptToneType: 0
+            ViewJudgeTime: 5986400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 75030
+            HoldEndTime: 75030
+            PromptToneType: 0
+            ViewJudgeTime: 6002400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 75230
+            HoldEndTime: 75230
+            PromptToneType: 0
+            ViewJudgeTime: 6018400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.601
+            JudgeTime: 75430
+            HoldEndTime: 76030
+            PromptToneType: 0
+            ViewJudgeTime: 6034400
+            HoldViewEndTime: 6082400
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 76030
+            HoldEndTime: 76030
+            PromptToneType: 0
+            ViewJudgeTime: 6082400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 76430
+            HoldEndTime: 76430
+            PromptToneType: 0
+            ViewJudgeTime: 6114400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 76830
+            HoldEndTime: 76830
+            PromptToneType: 0
+            ViewJudgeTime: 6146400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 77030
+            HoldEndTime: 77030
+            PromptToneType: 0
+            ViewJudgeTime: 6162400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 77230
+            HoldEndTime: 77230
+            PromptToneType: 0
+            ViewJudgeTime: 6178400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.051
+            JudgeTime: 77430
+            HoldEndTime: 77430
+            PromptToneType: 0
+            ViewJudgeTime: 6194400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 77630
+            HoldEndTime: 77630
+            PromptToneType: 0
+            ViewJudgeTime: 6210400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 77830
+            HoldEndTime: 77830
+            PromptToneType: 0
+            ViewJudgeTime: 6226400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 78030
+            HoldEndTime: 78030
+            PromptToneType: 0
+            ViewJudgeTime: 6242400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 78230
+            HoldEndTime: 78230
+            PromptToneType: 0
+            ViewJudgeTime: 6258400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.051
+            JudgeTime: 78430
+            HoldEndTime: 78430
+            PromptToneType: 0
+            ViewJudgeTime: 6274400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.601
+            JudgeTime: 78630
+            HoldEndTime: 79030
+            PromptToneType: 0
+            ViewJudgeTime: 6290400
+            HoldViewEndTime: 6322400
+          - Type: 1
+            Pos: 0.203
+            JudgeTime: 79030
+            HoldEndTime: 79430
+            PromptToneType: 0
+            ViewJudgeTime: 6322400
+            HoldViewEndTime: 6354400
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 79430
+            HoldEndTime: 79430
+            PromptToneType: 0
+            ViewJudgeTime: 6354400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 79630
+            HoldEndTime: 79630
+            PromptToneType: 0
+            ViewJudgeTime: 6370400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.449
+            JudgeTime: 80030
+            HoldEndTime: 80030
+            PromptToneType: 0
+            ViewJudgeTime: 6402400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 80230
+            HoldEndTime: 80230
+            PromptToneType: 0
+            ViewJudgeTime: 6418400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 80430
+            HoldEndTime: 80430
+            PromptToneType: 0
+            ViewJudgeTime: 6434400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 80630
+            HoldEndTime: 80630
+            PromptToneType: 0
+            ViewJudgeTime: 6450400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 81030
+            HoldEndTime: 81030
+            PromptToneType: 0
+            ViewJudgeTime: 6482400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 81230
+            HoldEndTime: 81230
+            PromptToneType: 0
+            ViewJudgeTime: 6498400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 81430
+            HoldEndTime: 81430
+            PromptToneType: 0
+            ViewJudgeTime: 6514400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 81630
+            HoldEndTime: 81630
+            PromptToneType: 0
+            ViewJudgeTime: 6530400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.5
+            JudgeTime: 81830
+            HoldEndTime: 82230
+            PromptToneType: 0
+            ViewJudgeTime: 6546400
+            HoldViewEndTime: 6578400
+          - Type: 1
+            Pos: 0.101
+            JudgeTime: 82230
+            HoldEndTime: 82630
+            PromptToneType: 0
+            ViewJudgeTime: 6578400
+            HoldViewEndTime: 6610400
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 82630
+            HoldEndTime: 82630
+            PromptToneType: 0
+            ViewJudgeTime: 6610400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 82830
+            HoldEndTime: 82830
+            PromptToneType: 0
+            ViewJudgeTime: 6626400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 83230
+            HoldEndTime: 83230
+            PromptToneType: 0
+            ViewJudgeTime: 6658400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 83430
+            HoldEndTime: 83430
+            PromptToneType: 0
+            ViewJudgeTime: 6674400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 83630
+            HoldEndTime: 83630
+            PromptToneType: 0
+            ViewJudgeTime: 6690400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 83830
+            HoldEndTime: 83830
+            PromptToneType: 0
+            ViewJudgeTime: 6706400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.004
+            JudgeTime: 84030
+            HoldEndTime: 84030
+            PromptToneType: 0
+            ViewJudgeTime: 6722400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 84230
+            HoldEndTime: 84230
+            PromptToneType: 0
+            ViewJudgeTime: 6738400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 84430
+            HoldEndTime: 84430
+            PromptToneType: 0
+            ViewJudgeTime: 6754400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 84630
+            HoldEndTime: 84630
+            PromptToneType: 0
+            ViewJudgeTime: 6770400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 84830
+            HoldEndTime: 84830
+            PromptToneType: 0
+            ViewJudgeTime: 6786400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.601
+            JudgeTime: 85030
+            HoldEndTime: 85430
+            PromptToneType: 0
+            ViewJudgeTime: 6802400
+            HoldViewEndTime: 6834400
+          - Type: 1
+            Pos: 0.101
+            JudgeTime: 85430
+            HoldEndTime: 86030
+            PromptToneType: 0
+            ViewJudgeTime: 6834400
+            HoldViewEndTime: 6882400
+          - Type: 4
+            Pos: 2
+            JudgeTime: 85630
+            HoldEndTime: 85630
+            PromptToneType: 0
+            ViewJudgeTime: 6850400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 86030
+            HoldEndTime: 86030
+            PromptToneType: 0
+            ViewJudgeTime: 6882400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 86230
+            HoldEndTime: 86230
+            PromptToneType: 0
+            ViewJudgeTime: 6898400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 86430
+            HoldEndTime: 86430
+            PromptToneType: 0
+            ViewJudgeTime: 6914400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 86630
+            HoldEndTime: 86630
+            PromptToneType: 0
+            ViewJudgeTime: 6930400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 86830
+            HoldEndTime: 86830
+            PromptToneType: 0
+            ViewJudgeTime: 6946400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 87030
+            HoldEndTime: 87030
+            PromptToneType: 0
+            ViewJudgeTime: 6962400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 87230
+            HoldEndTime: 87230
+            PromptToneType: 0
+            ViewJudgeTime: 6978400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 87430
+            HoldEndTime: 87430
+            PromptToneType: 0
+            ViewJudgeTime: 6994400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 87630
+            HoldEndTime: 87630
+            PromptToneType: 0
+            ViewJudgeTime: 7010400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 87830
+            HoldEndTime: 87830
+            PromptToneType: 0
+            ViewJudgeTime: 7026400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 88030
+            HoldEndTime: 88030
+            PromptToneType: 0
+            ViewJudgeTime: 7042400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.5
+            JudgeTime: 88230
+            HoldEndTime: 88830
+            PromptToneType: 0
+            ViewJudgeTime: 7058400
+            HoldViewEndTime: 7106400
+          - Type: 4
+            Pos: 2
+            JudgeTime: 88830
+            HoldEndTime: 88830
+            PromptToneType: 0
+            ViewJudgeTime: 7106400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 89230
+            HoldEndTime: 89230
+            PromptToneType: 0
+            ViewJudgeTime: 7138400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 89630
+            HoldEndTime: 89630
+            PromptToneType: 0
+            ViewJudgeTime: 7170400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 89830
+            HoldEndTime: 89830
+            PromptToneType: 0
+            ViewJudgeTime: 7186400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 90030
+            HoldEndTime: 90030
+            PromptToneType: 0
+            ViewJudgeTime: 7202400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 90230
+            HoldEndTime: 90230
+            PromptToneType: 0
+            ViewJudgeTime: 7218400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.004
+            JudgeTime: 90430
+            HoldEndTime: 90430
+            PromptToneType: 0
+            ViewJudgeTime: 7234400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 90630
+            HoldEndTime: 90630
+            PromptToneType: 0
+            ViewJudgeTime: 7250400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 90830
+            HoldEndTime: 90830
+            PromptToneType: 0
+            ViewJudgeTime: 7266400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 91030
+            HoldEndTime: 91030
+            PromptToneType: 0
+            ViewJudgeTime: 7282400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 91230
+            HoldEndTime: 91230
+            PromptToneType: 0
+            ViewJudgeTime: 7298400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.55
+            JudgeTime: 91430
+            HoldEndTime: 91830
+            PromptToneType: 0
+            ViewJudgeTime: 7314400
+            HoldViewEndTime: 7346400
+          - Type: 1
+            Pos: 0.101
+            JudgeTime: 91830
+            HoldEndTime: 92230
+            PromptToneType: 0
+            ViewJudgeTime: 7346400
+            HoldViewEndTime: 7378400
+          - Type: 4
+            Pos: 2
+            JudgeTime: 92030
+            HoldEndTime: 92030
+            PromptToneType: 0
+            ViewJudgeTime: 7362400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 92230
+            HoldEndTime: 92230
+            PromptToneType: 0
+            ViewJudgeTime: 7378400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 92430
+            HoldEndTime: 92430
+            PromptToneType: 0
+            ViewJudgeTime: 7394400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 92830
+            HoldEndTime: 92830
+            PromptToneType: 0
+            ViewJudgeTime: 7426400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 93030
+            HoldEndTime: 93030
+            PromptToneType: 0
+            ViewJudgeTime: 7442400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 93230
+            HoldEndTime: 93230
+            PromptToneType: 0
+            ViewJudgeTime: 7458400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 93430
+            HoldEndTime: 93430
+            PromptToneType: 0
+            ViewJudgeTime: 7474400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.004
+            JudgeTime: 93630
+            HoldEndTime: 93630
+            PromptToneType: 0
+            ViewJudgeTime: 7490400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.051
+            JudgeTime: 93830
+            HoldEndTime: 93830
+            PromptToneType: 0
+            ViewJudgeTime: 7506400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 94030
+            HoldEndTime: 94030
+            PromptToneType: 0
+            ViewJudgeTime: 7522400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 94230
+            HoldEndTime: 94230
+            PromptToneType: 0
+            ViewJudgeTime: 7538400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 94430
+            HoldEndTime: 94430
+            PromptToneType: 0
+            ViewJudgeTime: 7554400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 94630
+            HoldEndTime: 94630
+            PromptToneType: 0
+            ViewJudgeTime: 7570400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 95230
+            HoldEndTime: 95230
+            PromptToneType: 0
+            ViewJudgeTime: 7618400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 95230
+            HoldEndTime: 95230
+            PromptToneType: 0
+            ViewJudgeTime: 7618400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 95630
+            HoldEndTime: 95630
+            PromptToneType: 0
+            ViewJudgeTime: 7650400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 96030
+            HoldEndTime: 96030
+            PromptToneType: 0
+            ViewJudgeTime: 7682400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 108830
+            HoldEndTime: 108830
+            PromptToneType: 0
+            ViewJudgeTime: 8706400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 109030
+            HoldEndTime: 109030
+            PromptToneType: 0
+            ViewJudgeTime: 8722400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 109230
+            HoldEndTime: 109230
+            PromptToneType: 0
+            ViewJudgeTime: 8738400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 109430
+            HoldEndTime: 109430
+            PromptToneType: 0
+            ViewJudgeTime: 8754400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.55
+            JudgeTime: 109630
+            HoldEndTime: 110230
+            PromptToneType: 0
+            ViewJudgeTime: 8770400
+            HoldViewEndTime: 8818400
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 110230
+            HoldEndTime: 110230
+            PromptToneType: 0
+            ViewJudgeTime: 8818400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.351
+            JudgeTime: 110430
+            HoldEndTime: 111230
+            PromptToneType: 0
+            ViewJudgeTime: 8834400
+            HoldViewEndTime: 8898400
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 111230
+            HoldEndTime: 111230
+            PromptToneType: 0
+            ViewJudgeTime: 8898400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 111430
+            HoldEndTime: 111430
+            PromptToneType: 0
+            ViewJudgeTime: 8914400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 112030
+            HoldEndTime: 112030
+            PromptToneType: 0
+            ViewJudgeTime: 8962400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 112230
+            HoldEndTime: 112230
+            PromptToneType: 0
+            ViewJudgeTime: 8978400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 112430
+            HoldEndTime: 112430
+            PromptToneType: 0
+            ViewJudgeTime: 8994400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 112630
+            HoldEndTime: 112630
+            PromptToneType: 0
+            ViewJudgeTime: 9010400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.351
+            JudgeTime: 112830
+            HoldEndTime: 113430
+            PromptToneType: 0
+            ViewJudgeTime: 9026400
+            HoldViewEndTime: 9074400
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 113430
+            HoldEndTime: 113430
+            PromptToneType: 0
+            ViewJudgeTime: 9074400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.601
+            JudgeTime: 113630
+            HoldEndTime: 114430
+            PromptToneType: 0
+            ViewJudgeTime: 9090400
+            HoldViewEndTime: 9154400
+          - Type: 1
+            Pos: 0.3
+            JudgeTime: 114430
+            HoldEndTime: 114830
+            PromptToneType: 0
+            ViewJudgeTime: 9154400
+            HoldViewEndTime: 9186400
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 115230
+            HoldEndTime: 115230
+            PromptToneType: 0
+            ViewJudgeTime: 9218400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 115430
+            HoldEndTime: 115430
+            PromptToneType: 0
+            ViewJudgeTime: 9234400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 115630
+            HoldEndTime: 115630
+            PromptToneType: 0
+            ViewJudgeTime: 9250400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 115830
+            HoldEndTime: 115830
+            PromptToneType: 0
+            ViewJudgeTime: 9266400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.203
+            JudgeTime: 116030
+            HoldEndTime: 116630
+            PromptToneType: 0
+            ViewJudgeTime: 9282400
+            HoldViewEndTime: 9330400
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 116630
+            HoldEndTime: 116630
+            PromptToneType: 0
+            ViewJudgeTime: 9330400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.5
+            JudgeTime: 116830
+            HoldEndTime: 117430
+            PromptToneType: 0
+            ViewJudgeTime: 9346400
+            HoldViewEndTime: 9394400
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 117630
+            HoldEndTime: 117630
+            PromptToneType: 0
+            ViewJudgeTime: 9410400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 118030
+            HoldEndTime: 118030
+            PromptToneType: 0
+            ViewJudgeTime: 9442400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 118430
+            HoldEndTime: 118430
+            PromptToneType: 0
+            ViewJudgeTime: 9474400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 118630
+            HoldEndTime: 118630
+            PromptToneType: 0
+            ViewJudgeTime: 9490400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 119030
+            HoldEndTime: 119030
+            PromptToneType: 0
+            ViewJudgeTime: 9522400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 119230
+            HoldEndTime: 119230
+            PromptToneType: 0
+            ViewJudgeTime: 9538400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 119630
+            HoldEndTime: 119630
+            PromptToneType: 0
+            ViewJudgeTime: 9570400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 119830
+            HoldEndTime: 119830
+            PromptToneType: 0
+            ViewJudgeTime: 9586400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 120230
+            HoldEndTime: 120230
+            PromptToneType: 0
+            ViewJudgeTime: 9618400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 120430
+            HoldEndTime: 120430
+            PromptToneType: 0
+            ViewJudgeTime: 9634400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 120830
+            HoldEndTime: 120830
+            PromptToneType: 0
+            ViewJudgeTime: 9666400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 121230
+            HoldEndTime: 121230
+            PromptToneType: 0
+            ViewJudgeTime: 9698400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 121630
+            HoldEndTime: 121630
+            PromptToneType: 0
+            ViewJudgeTime: 9730400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.351
+            JudgeTime: 124030
+            HoldEndTime: 124030
+            PromptToneType: 0
+            ViewJudgeTime: 9922400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 124430
+            HoldEndTime: 124430
+            PromptToneType: 0
+            ViewJudgeTime: 9954400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.101
+            JudgeTime: 124830
+            HoldEndTime: 127230
+            PromptToneType: 0
+            ViewJudgeTime: 9986400
+            HoldViewEndTime: 10178400
+          - Type: 1
+            Pos: 0.699
+            JudgeTime: 126030
+            HoldEndTime: 127230
+            PromptToneType: 0
+            ViewJudgeTime: 10082400
+            HoldViewEndTime: 10178400
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 128030
+            HoldEndTime: 128030
+            PromptToneType: 0
+            ViewJudgeTime: 10242400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 128230
+            HoldEndTime: 128230
+            PromptToneType: 0
+            ViewJudgeTime: 10258400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 128430
+            HoldEndTime: 128430
+            PromptToneType: 0
+            ViewJudgeTime: 10274400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 128630
+            HoldEndTime: 128630
+            PromptToneType: 0
+            ViewJudgeTime: 10290400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 128830
+            HoldEndTime: 128830
+            PromptToneType: 0
+            ViewJudgeTime: 10306400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 129030
+            HoldEndTime: 129030
+            PromptToneType: 0
+            ViewJudgeTime: 10322400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 129230
+            HoldEndTime: 129230
+            PromptToneType: 0
+            ViewJudgeTime: 10338400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.449
+            JudgeTime: 129430
+            HoldEndTime: 129430
+            PromptToneType: 0
+            ViewJudgeTime: 10354400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 129630
+            HoldEndTime: 129630
+            PromptToneType: 0
+            ViewJudgeTime: 10370400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.25
+            JudgeTime: 129830
+            HoldEndTime: 130230
+            PromptToneType: 0
+            ViewJudgeTime: 10386400
+            HoldViewEndTime: 10418400
+          - Type: 1
+            Pos: 0.5
+            JudgeTime: 130230
+            HoldEndTime: 130830
+            PromptToneType: 0
+            ViewJudgeTime: 10418400
+            HoldViewEndTime: 10466400
+          - Type: 0
+            Pos: 0.004
+            JudgeTime: 130430
+            HoldEndTime: 130430
+            PromptToneType: 0
+            ViewJudgeTime: 10434400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.051
+            JudgeTime: 130830
+            HoldEndTime: 130830
+            PromptToneType: 0
+            ViewJudgeTime: 10466400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 131030
+            HoldEndTime: 131030
+            PromptToneType: 0
+            ViewJudgeTime: 10482400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 131230
+            HoldEndTime: 131230
+            PromptToneType: 0
+            ViewJudgeTime: 10498400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.449
+            JudgeTime: 131430
+            HoldEndTime: 131430
+            PromptToneType: 0
+            ViewJudgeTime: 10514400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.351
+            JudgeTime: 131630
+            HoldEndTime: 131630
+            PromptToneType: 0
+            ViewJudgeTime: 10530400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 131830
+            HoldEndTime: 131830
+            PromptToneType: 0
+            ViewJudgeTime: 10546400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 132030
+            HoldEndTime: 132030
+            PromptToneType: 0
+            ViewJudgeTime: 10562400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 132230
+            HoldEndTime: 132230
+            PromptToneType: 0
+            ViewJudgeTime: 10578400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 132430
+            HoldEndTime: 132430
+            PromptToneType: 0
+            ViewJudgeTime: 10594400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.449
+            JudgeTime: 132630
+            HoldEndTime: 132630
+            PromptToneType: 0
+            ViewJudgeTime: 10610400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 132830
+            HoldEndTime: 132830
+            PromptToneType: 0
+            ViewJudgeTime: 10626400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.601
+            JudgeTime: 133030
+            HoldEndTime: 133630
+            PromptToneType: 0
+            ViewJudgeTime: 10642400
+            HoldViewEndTime: 10690400
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 133630
+            HoldEndTime: 133630
+            PromptToneType: 0
+            ViewJudgeTime: 10690400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 133630
+            HoldEndTime: 133630
+            PromptToneType: 0
+            ViewJudgeTime: 10690400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 134030
+            HoldEndTime: 134030
+            PromptToneType: 0
+            ViewJudgeTime: 10722400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 134430
+            HoldEndTime: 134430
+            PromptToneType: 0
+            ViewJudgeTime: 10754400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.051
+            JudgeTime: 134630
+            HoldEndTime: 134630
+            PromptToneType: 0
+            ViewJudgeTime: 10770400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.25
+            JudgeTime: 134830
+            HoldEndTime: 135430
+            PromptToneType: 0
+            ViewJudgeTime: 10786400
+            HoldViewEndTime: 10834400
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 135030
+            HoldEndTime: 135030
+            PromptToneType: 0
+            ViewJudgeTime: 10802400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 135230
+            HoldEndTime: 135230
+            PromptToneType: 0
+            ViewJudgeTime: 10818400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 135430
+            HoldEndTime: 135430
+            PromptToneType: 0
+            ViewJudgeTime: 10834400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 135630
+            HoldEndTime: 135630
+            PromptToneType: 0
+            ViewJudgeTime: 10850400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 135830
+            HoldEndTime: 135830
+            PromptToneType: 0
+            ViewJudgeTime: 10866400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 136030
+            HoldEndTime: 136030
+            PromptToneType: 0
+            ViewJudgeTime: 10882400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 136230
+            HoldEndTime: 136630
+            PromptToneType: 0
+            ViewJudgeTime: 10898400
+            HoldViewEndTime: 10930400
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 136630
+            HoldEndTime: 136630
+            PromptToneType: 0
+            ViewJudgeTime: 10930400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.004
+            JudgeTime: 136830
+            HoldEndTime: 136830
+            PromptToneType: 0
+            ViewJudgeTime: 10946400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 137030
+            HoldEndTime: 137030
+            PromptToneType: 0
+            ViewJudgeTime: 10962400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 137230
+            HoldEndTime: 137230
+            PromptToneType: 0
+            ViewJudgeTime: 10978400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 137630
+            HoldEndTime: 137630
+            PromptToneType: 0
+            ViewJudgeTime: 11010400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 137830
+            HoldEndTime: 137830
+            PromptToneType: 0
+            ViewJudgeTime: 11026400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 138030
+            HoldEndTime: 138030
+            PromptToneType: 0
+            ViewJudgeTime: 11042400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 138230
+            HoldEndTime: 138230
+            PromptToneType: 0
+            ViewJudgeTime: 11058400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 138430
+            HoldEndTime: 138430
+            PromptToneType: 0
+            ViewJudgeTime: 11074400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 138630
+            HoldEndTime: 138630
+            PromptToneType: 0
+            ViewJudgeTime: 11090400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 138830
+            HoldEndTime: 138830
+            PromptToneType: 0
+            ViewJudgeTime: 11106400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 139030
+            HoldEndTime: 139030
+            PromptToneType: 0
+            ViewJudgeTime: 11122400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 139230
+            HoldEndTime: 139230
+            PromptToneType: 0
+            ViewJudgeTime: 11138400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.203
+            JudgeTime: 139430
+            HoldEndTime: 139830
+            PromptToneType: 0
+            ViewJudgeTime: 11154400
+            HoldViewEndTime: 11186400
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 139830
+            HoldEndTime: 139830
+            PromptToneType: 0
+            ViewJudgeTime: 11186400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.004
+            JudgeTime: 140030
+            HoldEndTime: 140030
+            PromptToneType: 0
+            ViewJudgeTime: 11202400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 140230
+            HoldEndTime: 140230
+            PromptToneType: 0
+            ViewJudgeTime: 11218400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 140430
+            HoldEndTime: 140430
+            PromptToneType: 0
+            ViewJudgeTime: 11234400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 140830
+            HoldEndTime: 140830
+            PromptToneType: 0
+            ViewJudgeTime: 11266400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 141030
+            HoldEndTime: 141030
+            PromptToneType: 0
+            ViewJudgeTime: 11282400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 141230
+            HoldEndTime: 141230
+            PromptToneType: 0
+            ViewJudgeTime: 11298400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.351
+            JudgeTime: 141430
+            HoldEndTime: 141430
+            PromptToneType: 0
+            ViewJudgeTime: 11314400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 141630
+            HoldEndTime: 141630
+            PromptToneType: 0
+            ViewJudgeTime: 11330400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 141830
+            HoldEndTime: 141830
+            PromptToneType: 0
+            ViewJudgeTime: 11346400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 142030
+            HoldEndTime: 142030
+            PromptToneType: 0
+            ViewJudgeTime: 11362400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 142230
+            HoldEndTime: 142230
+            PromptToneType: 0
+            ViewJudgeTime: 11378400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 142430
+            HoldEndTime: 142430
+            PromptToneType: 0
+            ViewJudgeTime: 11394400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.25
+            JudgeTime: 142630
+            HoldEndTime: 143030
+            PromptToneType: 0
+            ViewJudgeTime: 11410400
+            HoldViewEndTime: 11442400
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 143030
+            HoldEndTime: 143030
+            PromptToneType: 0
+            ViewJudgeTime: 11442400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.004
+            JudgeTime: 143230
+            HoldEndTime: 143230
+            PromptToneType: 0
+            ViewJudgeTime: 11458400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 143630
+            HoldEndTime: 143630
+            PromptToneType: 0
+            ViewJudgeTime: 11490400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 143830
+            HoldEndTime: 143830
+            PromptToneType: 0
+            ViewJudgeTime: 11506400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 144030
+            HoldEndTime: 144030
+            PromptToneType: 0
+            ViewJudgeTime: 11522400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 144230
+            HoldEndTime: 144230
+            PromptToneType: 0
+            ViewJudgeTime: 11538400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 144430
+            HoldEndTime: 144430
+            PromptToneType: 0
+            ViewJudgeTime: 11554400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 144630
+            HoldEndTime: 144630
+            PromptToneType: 0
+            ViewJudgeTime: 11570400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 144830
+            HoldEndTime: 144830
+            PromptToneType: 0
+            ViewJudgeTime: 11586400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 145030
+            HoldEndTime: 145030
+            PromptToneType: 0
+            ViewJudgeTime: 11602400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 145230
+            HoldEndTime: 145230
+            PromptToneType: 0
+            ViewJudgeTime: 11618400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 145430
+            HoldEndTime: 145430
+            PromptToneType: 0
+            ViewJudgeTime: 11634400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 145630
+            HoldEndTime: 145630
+            PromptToneType: 0
+            ViewJudgeTime: 11650400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.25
+            JudgeTime: 145830
+            HoldEndTime: 146230
+            PromptToneType: 0
+            ViewJudgeTime: 11666400
+            HoldViewEndTime: 11698400
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 146230
+            HoldEndTime: 146230
+            PromptToneType: 0
+            ViewJudgeTime: 11698400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.004
+            JudgeTime: 146430
+            HoldEndTime: 146430
+            PromptToneType: 0
+            ViewJudgeTime: 11714400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 146830
+            HoldEndTime: 146830
+            PromptToneType: 0
+            ViewJudgeTime: 11746400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 147230
+            HoldEndTime: 147230
+            PromptToneType: 0
+            ViewJudgeTime: 11778400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 147430
+            HoldEndTime: 147430
+            PromptToneType: 0
+            ViewJudgeTime: 11794400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 147630
+            HoldEndTime: 147630
+            PromptToneType: 0
+            ViewJudgeTime: 11810400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 147830
+            HoldEndTime: 147830
+            PromptToneType: 0
+            ViewJudgeTime: 11826400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 148030
+            HoldEndTime: 148030
+            PromptToneType: 0
+            ViewJudgeTime: 11842400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 148230
+            HoldEndTime: 148230
+            PromptToneType: 0
+            ViewJudgeTime: 11858400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 148430
+            HoldEndTime: 148430
+            PromptToneType: 0
+            ViewJudgeTime: 11874400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 148630
+            HoldEndTime: 148630
+            PromptToneType: 0
+            ViewJudgeTime: 11890400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 148830
+            HoldEndTime: 148830
+            PromptToneType: 0
+            ViewJudgeTime: 11906400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.55
+            JudgeTime: 149030
+            HoldEndTime: 149430
+            PromptToneType: 0
+            ViewJudgeTime: 11922400
+            HoldViewEndTime: 11954400
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 149430
+            HoldEndTime: 149430
+            PromptToneType: 0
+            ViewJudgeTime: 11954400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.004
+            JudgeTime: 149630
+            HoldEndTime: 149630
+            PromptToneType: 0
+            ViewJudgeTime: 11970400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 149830
+            HoldEndTime: 149830
+            PromptToneType: 0
+            ViewJudgeTime: 11986400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 150030
+            HoldEndTime: 150030
+            PromptToneType: 0
+            ViewJudgeTime: 12002400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 150430
+            HoldEndTime: 150430
+            PromptToneType: 0
+            ViewJudgeTime: 12034400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 150630
+            HoldEndTime: 150630
+            PromptToneType: 0
+            ViewJudgeTime: 12050400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.449
+            JudgeTime: 150830
+            HoldEndTime: 150830
+            PromptToneType: 0
+            ViewJudgeTime: 12066400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 151030
+            HoldEndTime: 151030
+            PromptToneType: 0
+            ViewJudgeTime: 12082400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 151230
+            HoldEndTime: 151230
+            PromptToneType: 0
+            ViewJudgeTime: 12098400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 151430
+            HoldEndTime: 151430
+            PromptToneType: 0
+            ViewJudgeTime: 12114400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 151630
+            HoldEndTime: 151630
+            PromptToneType: 0
+            ViewJudgeTime: 12130400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 151830
+            HoldEndTime: 151830
+            PromptToneType: 0
+            ViewJudgeTime: 12146400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 152030
+            HoldEndTime: 152030
+            PromptToneType: 0
+            ViewJudgeTime: 12162400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 152230
+            HoldEndTime: 152230
+            PromptToneType: 0
+            ViewJudgeTime: 12178400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 152830
+            HoldEndTime: 152830
+            PromptToneType: 0
+            ViewJudgeTime: 12226400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 152830
+            HoldEndTime: 152830
+            PromptToneType: 0
+            ViewJudgeTime: 12226400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 153230
+            HoldEndTime: 153230
+            PromptToneType: 0
+            ViewJudgeTime: 12258400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 153630
+            HoldEndTime: 153630
+            PromptToneType: 0
+            ViewJudgeTime: 12290400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 153630
+            HoldEndTime: 153630
+            PromptToneType: 0
+            ViewJudgeTime: 12290400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 153830
+            HoldEndTime: 153830
+            PromptToneType: 0
+            ViewJudgeTime: 12306400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 154230
+            HoldEndTime: 154230
+            PromptToneType: 0
+            ViewJudgeTime: 12338400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 154430
+            HoldEndTime: 154430
+            PromptToneType: 0
+            ViewJudgeTime: 12354400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 154830
+            HoldEndTime: 154830
+            PromptToneType: 0
+            ViewJudgeTime: 12386400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 155030
+            HoldEndTime: 155030
+            PromptToneType: 0
+            ViewJudgeTime: 12402400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 155230
+            HoldEndTime: 155230
+            PromptToneType: 0
+            ViewJudgeTime: 12418400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 155430
+            HoldEndTime: 155430
+            PromptToneType: 0
+            ViewJudgeTime: 12434400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 155830
+            HoldEndTime: 155830
+            PromptToneType: 0
+            ViewJudgeTime: 12466400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 156030
+            HoldEndTime: 156030
+            PromptToneType: 0
+            ViewJudgeTime: 12482400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 156430
+            HoldEndTime: 156430
+            PromptToneType: 0
+            ViewJudgeTime: 12514400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 156630
+            HoldEndTime: 156630
+            PromptToneType: 0
+            ViewJudgeTime: 12530400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 156830
+            HoldEndTime: 156830
+            PromptToneType: 0
+            ViewJudgeTime: 12546400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 157030
+            HoldEndTime: 157030
+            PromptToneType: 0
+            ViewJudgeTime: 12562400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 157430
+            HoldEndTime: 157430
+            PromptToneType: 0
+            ViewJudgeTime: 12594400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 157630
+            HoldEndTime: 157630
+            PromptToneType: 0
+            ViewJudgeTime: 12610400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 158030
+            HoldEndTime: 158030
+            PromptToneType: 0
+            ViewJudgeTime: 12642400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 158230
+            HoldEndTime: 158230
+            PromptToneType: 0
+            ViewJudgeTime: 12658400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 158430
+            HoldEndTime: 158430
+            PromptToneType: 0
+            ViewJudgeTime: 12674400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 158630
+            HoldEndTime: 158630
+            PromptToneType: 0
+            ViewJudgeTime: 12690400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 159030
+            HoldEndTime: 159030
+            PromptToneType: 0
+            ViewJudgeTime: 12722400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 159230
+            HoldEndTime: 159230
+            PromptToneType: 0
+            ViewJudgeTime: 12738400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 159630
+            HoldEndTime: 159630
+            PromptToneType: 0
+            ViewJudgeTime: 12770400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 159830
+            HoldEndTime: 159830
+            PromptToneType: 0
+            ViewJudgeTime: 12786400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 160030
+            HoldEndTime: 160030
+            PromptToneType: 0
+            ViewJudgeTime: 12802400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 160230
+            HoldEndTime: 160230
+            PromptToneType: 0
+            ViewJudgeTime: 12818400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 160630
+            HoldEndTime: 160630
+            PromptToneType: 0
+            ViewJudgeTime: 12850400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 160830
+            HoldEndTime: 160830
+            PromptToneType: 0
+            ViewJudgeTime: 12866400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 161230
+            HoldEndTime: 161230
+            PromptToneType: 0
+            ViewJudgeTime: 12898400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 161430
+            HoldEndTime: 161430
+            PromptToneType: 0
+            ViewJudgeTime: 12914400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 161630
+            HoldEndTime: 161630
+            PromptToneType: 0
+            ViewJudgeTime: 12930400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 161830
+            HoldEndTime: 161830
+            PromptToneType: 0
+            ViewJudgeTime: 12946400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 162230
+            HoldEndTime: 162230
+            PromptToneType: 0
+            ViewJudgeTime: 12978400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 162430
+            HoldEndTime: 162430
+            PromptToneType: 0
+            ViewJudgeTime: 12994400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 162830
+            HoldEndTime: 162830
+            PromptToneType: 0
+            ViewJudgeTime: 13026400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 163030
+            HoldEndTime: 163030
+            PromptToneType: 0
+            ViewJudgeTime: 13042400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 163230
+            HoldEndTime: 163230
+            PromptToneType: 0
+            ViewJudgeTime: 13058400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 163430
+            HoldEndTime: 163430
+            PromptToneType: 0
+            ViewJudgeTime: 13074400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 163830
+            HoldEndTime: 163830
+            PromptToneType: 0
+            ViewJudgeTime: 13106400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 164030
+            HoldEndTime: 164030
+            PromptToneType: 0
+            ViewJudgeTime: 13122400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 164430
+            HoldEndTime: 164430
+            PromptToneType: 0
+            ViewJudgeTime: 13154400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 164630
+            HoldEndTime: 164630
+            PromptToneType: 0
+            ViewJudgeTime: 13170400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 164830
+            HoldEndTime: 164830
+            PromptToneType: 0
+            ViewJudgeTime: 13186400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 165030
+            HoldEndTime: 165030
+            PromptToneType: 0
+            ViewJudgeTime: 13202400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 165430
+            HoldEndTime: 165430
+            PromptToneType: 0
+            ViewJudgeTime: 13234400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 165630
+            HoldEndTime: 165630
+            PromptToneType: 0
+            ViewJudgeTime: 13250400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.004
+            JudgeTime: 165630
+            HoldEndTime: 165630
+            PromptToneType: 0
+            ViewJudgeTime: 13250400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 166030
+            HoldEndTime: 166030
+            PromptToneType: 0
+            ViewJudgeTime: 13282400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 166030
+            HoldEndTime: 166030
+            PromptToneType: 0
+            ViewJudgeTime: 13282400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 166430
+            HoldEndTime: 166430
+            PromptToneType: 0
+            ViewJudgeTime: 13314400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 166630
+            HoldEndTime: 166630
+            PromptToneType: 0
+            ViewJudgeTime: 13330400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 166830
+            HoldEndTime: 166830
+            PromptToneType: 0
+            ViewJudgeTime: 13346400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 167030
+            HoldEndTime: 167030
+            PromptToneType: 0
+            ViewJudgeTime: 13362400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 167230
+            HoldEndTime: 167230
+            PromptToneType: 0
+            ViewJudgeTime: 13378400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 167330
+            HoldEndTime: 167330
+            PromptToneType: 0
+            ViewJudgeTime: 13386400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 167430
+            HoldEndTime: 167430
+            PromptToneType: 0
+            ViewJudgeTime: 13394400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 167530
+            HoldEndTime: 167530
+            PromptToneType: 0
+            ViewJudgeTime: 13402400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 167630
+            HoldEndTime: 167630
+            PromptToneType: 0
+            ViewJudgeTime: 13410400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 167830
+            HoldEndTime: 167830
+            PromptToneType: 0
+            ViewJudgeTime: 13426400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 168030
+            HoldEndTime: 168030
+            PromptToneType: 0
+            ViewJudgeTime: 13442400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 168230
+            HoldEndTime: 168230
+            PromptToneType: 0
+            ViewJudgeTime: 13458400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 168430
+            HoldEndTime: 168430
+            PromptToneType: 0
+            ViewJudgeTime: 13474400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 168630
+            HoldEndTime: 168630
+            PromptToneType: 0
+            ViewJudgeTime: 13490400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 168830
+            HoldEndTime: 168830
+            PromptToneType: 0
+            ViewJudgeTime: 13506400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 168930
+            HoldEndTime: 168930
+            PromptToneType: 0
+            ViewJudgeTime: 13514400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 169030
+            HoldEndTime: 169030
+            PromptToneType: 0
+            ViewJudgeTime: 13522400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 169130
+            HoldEndTime: 169130
+            PromptToneType: 0
+            ViewJudgeTime: 13530400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 169230
+            HoldEndTime: 169230
+            PromptToneType: 0
+            ViewJudgeTime: 13538400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 169430
+            HoldEndTime: 169430
+            PromptToneType: 0
+            ViewJudgeTime: 13554400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 169630
+            HoldEndTime: 169630
+            PromptToneType: 0
+            ViewJudgeTime: 13570400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 169830
+            HoldEndTime: 169830
+            PromptToneType: 0
+            ViewJudgeTime: 13586400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 170030
+            HoldEndTime: 170030
+            PromptToneType: 0
+            ViewJudgeTime: 13602400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.449
+            JudgeTime: 170230
+            HoldEndTime: 170230
+            PromptToneType: 0
+            ViewJudgeTime: 13618400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 170430
+            HoldEndTime: 170430
+            PromptToneType: 0
+            ViewJudgeTime: 13634400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 170530
+            HoldEndTime: 170530
+            PromptToneType: 0
+            ViewJudgeTime: 13642400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 170630
+            HoldEndTime: 170630
+            PromptToneType: 0
+            ViewJudgeTime: 13650400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 170730
+            HoldEndTime: 170730
+            PromptToneType: 0
+            ViewJudgeTime: 13658400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 170830
+            HoldEndTime: 170830
+            PromptToneType: 0
+            ViewJudgeTime: 13666400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 171030
+            HoldEndTime: 171030
+            PromptToneType: 0
+            ViewJudgeTime: 13682400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 171230
+            HoldEndTime: 171230
+            PromptToneType: 0
+            ViewJudgeTime: 13698400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 171230
+            HoldEndTime: 171230
+            PromptToneType: 0
+            ViewJudgeTime: 13698400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 171430
+            HoldEndTime: 171430
+            PromptToneType: 0
+            ViewJudgeTime: 13714400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 171630
+            HoldEndTime: 171630
+            PromptToneType: 0
+            ViewJudgeTime: 13730400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 171830
+            HoldEndTime: 171830
+            PromptToneType: 0
+            ViewJudgeTime: 13746400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 172030
+            HoldEndTime: 172030
+            PromptToneType: 0
+            ViewJudgeTime: 13762400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 172030
+            HoldEndTime: 172030
+            PromptToneType: 0
+            ViewJudgeTime: 13762400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 172230
+            HoldEndTime: 172230
+            PromptToneType: 0
+            ViewJudgeTime: 13778400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 172430
+            HoldEndTime: 172430
+            PromptToneType: 0
+            ViewJudgeTime: 13794400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 172630
+            HoldEndTime: 172630
+            PromptToneType: 0
+            ViewJudgeTime: 13810400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 172830
+            HoldEndTime: 172830
+            PromptToneType: 0
+            ViewJudgeTime: 13826400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 172830
+            HoldEndTime: 172830
+            PromptToneType: 0
+            ViewJudgeTime: 13826400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 173030
+            HoldEndTime: 173030
+            PromptToneType: 0
+            ViewJudgeTime: 13842400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 173230
+            HoldEndTime: 173230
+            PromptToneType: 0
+            ViewJudgeTime: 13858400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 173230
+            HoldEndTime: 173230
+            PromptToneType: 0
+            ViewJudgeTime: 13858400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 173430
+            HoldEndTime: 173430
+            PromptToneType: 0
+            ViewJudgeTime: 13874400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 173630
+            HoldEndTime: 173630
+            PromptToneType: 0
+            ViewJudgeTime: 13890400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 173630
+            HoldEndTime: 173630
+            PromptToneType: 0
+            ViewJudgeTime: 13890400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 173830
+            HoldEndTime: 173830
+            PromptToneType: 0
+            ViewJudgeTime: 13906400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 174030
+            HoldEndTime: 174030
+            PromptToneType: 0
+            ViewJudgeTime: 13922400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 174030
+            HoldEndTime: 174030
+            PromptToneType: 0
+            ViewJudgeTime: 13922400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 174230
+            HoldEndTime: 174230
+            PromptToneType: 0
+            ViewJudgeTime: 13938400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 174430
+            HoldEndTime: 174430
+            PromptToneType: 0
+            ViewJudgeTime: 13954400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 174430
+            HoldEndTime: 174430
+            PromptToneType: 0
+            ViewJudgeTime: 13954400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 174630
+            HoldEndTime: 174630
+            PromptToneType: 0
+            ViewJudgeTime: 13970400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 174830
+            HoldEndTime: 174830
+            PromptToneType: 0
+            ViewJudgeTime: 13986400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 174830
+            HoldEndTime: 174830
+            PromptToneType: 0
+            ViewJudgeTime: 13986400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 175030
+            HoldEndTime: 175030
+            PromptToneType: 0
+            ViewJudgeTime: 14002400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 175230
+            HoldEndTime: 175230
+            PromptToneType: 0
+            ViewJudgeTime: 14018400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 175230
+            HoldEndTime: 175230
+            PromptToneType: 0
+            ViewJudgeTime: 14018400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 175430
+            HoldEndTime: 175430
+            PromptToneType: 0
+            ViewJudgeTime: 14034400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 175630
+            HoldEndTime: 175630
+            PromptToneType: 0
+            ViewJudgeTime: 14050400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 175630
+            HoldEndTime: 175630
+            PromptToneType: 0
+            ViewJudgeTime: 14050400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 175830
+            HoldEndTime: 175830
+            PromptToneType: 0
+            ViewJudgeTime: 14066400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 176030
+            HoldEndTime: 176030
+            PromptToneType: 0
+            ViewJudgeTime: 14082400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 176030
+            HoldEndTime: 176030
+            PromptToneType: 0
+            ViewJudgeTime: 14082400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 176230
+            HoldEndTime: 176230
+            PromptToneType: 0
+            ViewJudgeTime: 14098400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 176230
+            HoldEndTime: 176230
+            PromptToneType: 0
+            ViewJudgeTime: 14098400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 176430
+            HoldEndTime: 176430
+            PromptToneType: 0
+            ViewJudgeTime: 14114400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 176430
+            HoldEndTime: 176430
+            PromptToneType: 0
+            ViewJudgeTime: 14114400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.699
+            JudgeTime: 176630
+            HoldEndTime: 176630
+            PromptToneType: 0
+            ViewJudgeTime: 14130400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.101
+            JudgeTime: 176630
+            HoldEndTime: 176630
+            PromptToneType: 0
+            ViewJudgeTime: 14130400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 176830
+            HoldEndTime: 176830
+            PromptToneType: 0
+            ViewJudgeTime: 14146400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 176930
+            HoldEndTime: 176930
+            PromptToneType: 0
+            ViewJudgeTime: 14154400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 177030
+            HoldEndTime: 177030
+            PromptToneType: 0
+            ViewJudgeTime: 14162400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 177130
+            HoldEndTime: 177130
+            PromptToneType: 0
+            ViewJudgeTime: 14170400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.5
+            JudgeTime: 177230
+            HoldEndTime: 177430
+            PromptToneType: 0
+            ViewJudgeTime: 14178400
+            HoldViewEndTime: 14194400
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 177430
+            HoldEndTime: 177430
+            PromptToneType: 0
+            ViewJudgeTime: 14194400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 179230
+            HoldEndTime: 180030
+            PromptToneType: 0
+            ViewJudgeTime: 14338400
+            HoldViewEndTime: 14402400
+          - Type: 2
+            Pos: 0.051
+            JudgeTime: 180030
+            HoldEndTime: 180030
+            PromptToneType: 0
+            ViewJudgeTime: 14402400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 180130
+            HoldEndTime: 180130
+            PromptToneType: 0
+            ViewJudgeTime: 14410400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.25
+            JudgeTime: 180230
+            HoldEndTime: 180230
+            PromptToneType: 0
+            ViewJudgeTime: 14418400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.351
+            JudgeTime: 180330
+            HoldEndTime: 180330
+            PromptToneType: 0
+            ViewJudgeTime: 14426400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 180430
+            HoldEndTime: 180430
+            PromptToneType: 0
+            ViewJudgeTime: 14434400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.203
+            JudgeTime: 180530
+            HoldEndTime: 180530
+            PromptToneType: 0
+            ViewJudgeTime: 14442400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 180630
+            HoldEndTime: 180630
+            PromptToneType: 0
+            ViewJudgeTime: 14450400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.402
+            JudgeTime: 180730
+            HoldEndTime: 180730
+            PromptToneType: 0
+            ViewJudgeTime: 14458400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 180830
+            HoldEndTime: 181230
+            PromptToneType: 0
+            ViewJudgeTime: 14466400
+            HoldViewEndTime: 14498400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 180830
+            HoldEndTime: 181230
+            PromptToneType: 0
+            ViewJudgeTime: 14466400
+            HoldViewEndTime: 14498400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 181430
+            HoldEndTime: 181730
+            PromptToneType: 0
+            ViewJudgeTime: 14514400
+            HoldViewEndTime: 14538400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 181430
+            HoldEndTime: 181730
+            PromptToneType: 0
+            ViewJudgeTime: 14514400
+            HoldViewEndTime: 14538400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 181830
+            HoldEndTime: 182130
+            PromptToneType: 0
+            ViewJudgeTime: 14546400
+            HoldViewEndTime: 14570400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 181830
+            HoldEndTime: 182130
+            PromptToneType: 0
+            ViewJudgeTime: 14546400
+            HoldViewEndTime: 14570400
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 182230
+            HoldEndTime: 182230
+            PromptToneType: 0
+            ViewJudgeTime: 14578400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 182430
+            HoldEndTime: 183230
+            PromptToneType: 0
+            ViewJudgeTime: 14594400
+            HoldViewEndTime: 14658400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 184030
+            HoldEndTime: 184430
+            PromptToneType: 0
+            ViewJudgeTime: 14722400
+            HoldViewEndTime: 14754400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 184030
+            HoldEndTime: 184430
+            PromptToneType: 0
+            ViewJudgeTime: 14722400
+            HoldViewEndTime: 14754400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 184630
+            HoldEndTime: 184930
+            PromptToneType: 0
+            ViewJudgeTime: 14770400
+            HoldViewEndTime: 14794400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 184630
+            HoldEndTime: 184930
+            PromptToneType: 0
+            ViewJudgeTime: 14770400
+            HoldViewEndTime: 14794400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 185030
+            HoldEndTime: 185330
+            PromptToneType: 0
+            ViewJudgeTime: 14802400
+            HoldViewEndTime: 14826400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 185030
+            HoldEndTime: 185330
+            PromptToneType: 0
+            ViewJudgeTime: 14802400
+            HoldViewEndTime: 14826400
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 185430
+            HoldEndTime: 185430
+            PromptToneType: 0
+            ViewJudgeTime: 14834400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 185630
+            HoldEndTime: 186430
+            PromptToneType: 0
+            ViewJudgeTime: 14850400
+            HoldViewEndTime: 14914400
+          - Type: 4
+            Pos: -1
+            JudgeTime: 186430
+            HoldEndTime: 186430
+            PromptToneType: 0
+            ViewJudgeTime: 14914400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 187230
+            HoldEndTime: 187630
+            PromptToneType: 0
+            ViewJudgeTime: 14978400
+            HoldViewEndTime: 15010400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 187230
+            HoldEndTime: 187630
+            PromptToneType: 0
+            ViewJudgeTime: 14978400
+            HoldViewEndTime: 15010400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 187830
+            HoldEndTime: 188130
+            PromptToneType: 0
+            ViewJudgeTime: 15026400
+            HoldViewEndTime: 15050400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 187830
+            HoldEndTime: 188130
+            PromptToneType: 0
+            ViewJudgeTime: 15026400
+            HoldViewEndTime: 15050400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 188230
+            HoldEndTime: 188530
+            PromptToneType: 0
+            ViewJudgeTime: 15058400
+            HoldViewEndTime: 15082400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 188230
+            HoldEndTime: 188530
+            PromptToneType: 0
+            ViewJudgeTime: 15058400
+            HoldViewEndTime: 15082400
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 188630
+            HoldEndTime: 188630
+            PromptToneType: 0
+            ViewJudgeTime: 15090400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 188830
+            HoldEndTime: 189630
+            PromptToneType: 0
+            ViewJudgeTime: 15106400
+            HoldViewEndTime: 15170400
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 189630
+            HoldEndTime: 189630
+            PromptToneType: 0
+            ViewJudgeTime: 15170400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.597
+            JudgeTime: 189730
+            HoldEndTime: 189730
+            PromptToneType: 0
+            ViewJudgeTime: 15178400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 189830
+            HoldEndTime: 189830
+            PromptToneType: 0
+            ViewJudgeTime: 15186400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.398
+            JudgeTime: 189930
+            HoldEndTime: 189930
+            PromptToneType: 0
+            ViewJudgeTime: 15194400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.648
+            JudgeTime: 190030
+            HoldEndTime: 190030
+            PromptToneType: 0
+            ViewJudgeTime: 15202400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.55
+            JudgeTime: 190130
+            HoldEndTime: 190130
+            PromptToneType: 0
+            ViewJudgeTime: 15210400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.449
+            JudgeTime: 190230
+            HoldEndTime: 190230
+            PromptToneType: 0
+            ViewJudgeTime: 15218400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.351
+            JudgeTime: 190330
+            HoldEndTime: 190330
+            PromptToneType: 0
+            ViewJudgeTime: 15226400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 190430
+            HoldEndTime: 190830
+            PromptToneType: 0
+            ViewJudgeTime: 15234400
+            HoldViewEndTime: 15266400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 190430
+            HoldEndTime: 190830
+            PromptToneType: 0
+            ViewJudgeTime: 15234400
+            HoldViewEndTime: 15266400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 191030
+            HoldEndTime: 191330
+            PromptToneType: 0
+            ViewJudgeTime: 15282400
+            HoldViewEndTime: 15306400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 191030
+            HoldEndTime: 191330
+            PromptToneType: 0
+            ViewJudgeTime: 15282400
+            HoldViewEndTime: 15306400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 191430
+            HoldEndTime: 191730
+            PromptToneType: 0
+            ViewJudgeTime: 15314400
+            HoldViewEndTime: 15338400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 191430
+            HoldEndTime: 191730
+            PromptToneType: 0
+            ViewJudgeTime: 15314400
+            HoldViewEndTime: 15338400
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 191830
+            HoldEndTime: 191830
+            PromptToneType: 0
+            ViewJudgeTime: 15346400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 192030
+            HoldEndTime: 192830
+            PromptToneType: 0
+            ViewJudgeTime: 15362400
+            HoldViewEndTime: 15426400
+          - Type: 0
+            Pos: 0.004
+            JudgeTime: 192830
+            HoldEndTime: 192830
+            PromptToneType: 0
+            ViewJudgeTime: 15426400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 193630
+            HoldEndTime: 194030
+            PromptToneType: 0
+            ViewJudgeTime: 15490400
+            HoldViewEndTime: 15522400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 193630
+            HoldEndTime: 194030
+            PromptToneType: 0
+            ViewJudgeTime: 15490400
+            HoldViewEndTime: 15522400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 194230
+            HoldEndTime: 194530
+            PromptToneType: 0
+            ViewJudgeTime: 15538400
+            HoldViewEndTime: 15562400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 194230
+            HoldEndTime: 194530
+            PromptToneType: 0
+            ViewJudgeTime: 15538400
+            HoldViewEndTime: 15562400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 194630
+            HoldEndTime: 194930
+            PromptToneType: 0
+            ViewJudgeTime: 15570400
+            HoldViewEndTime: 15594400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 194630
+            HoldEndTime: 194930
+            PromptToneType: 0
+            ViewJudgeTime: 15570400
+            HoldViewEndTime: 15594400
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 195030
+            HoldEndTime: 195030
+            PromptToneType: 0
+            ViewJudgeTime: 15602400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 195230
+            HoldEndTime: 196030
+            PromptToneType: 0
+            ViewJudgeTime: 15618400
+            HoldViewEndTime: 15682400
+          - Type: 4
+            Pos: 2
+            JudgeTime: 196030
+            HoldEndTime: 196030
+            PromptToneType: 0
+            ViewJudgeTime: 15682400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 196430
+            HoldEndTime: 196430
+            PromptToneType: 0
+            ViewJudgeTime: 15714400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 196830
+            HoldEndTime: 197230
+            PromptToneType: 0
+            ViewJudgeTime: 15746400
+            HoldViewEndTime: 15778400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 196830
+            HoldEndTime: 197230
+            PromptToneType: 0
+            ViewJudgeTime: 15746400
+            HoldViewEndTime: 15778400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 197430
+            HoldEndTime: 197730
+            PromptToneType: 0
+            ViewJudgeTime: 15794400
+            HoldViewEndTime: 15818400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 197430
+            HoldEndTime: 197730
+            PromptToneType: 0
+            ViewJudgeTime: 15794400
+            HoldViewEndTime: 15818400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 197830
+            HoldEndTime: 198130
+            PromptToneType: 0
+            ViewJudgeTime: 15826400
+            HoldViewEndTime: 15850400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 197830
+            HoldEndTime: 198130
+            PromptToneType: 0
+            ViewJudgeTime: 15826400
+            HoldViewEndTime: 15850400
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 198230
+            HoldEndTime: 198230
+            PromptToneType: 0
+            ViewJudgeTime: 15858400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 198430
+            HoldEndTime: 199230
+            PromptToneType: 0
+            ViewJudgeTime: 15874400
+            HoldViewEndTime: 15938400
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 199230
+            HoldEndTime: 199230
+            PromptToneType: 0
+            ViewJudgeTime: 15938400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.203
+            JudgeTime: 199330
+            HoldEndTime: 199330
+            PromptToneType: 0
+            ViewJudgeTime: 15946400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 199430
+            HoldEndTime: 199430
+            PromptToneType: 0
+            ViewJudgeTime: 15954400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.402
+            JudgeTime: 199530
+            HoldEndTime: 199530
+            PromptToneType: 0
+            ViewJudgeTime: 15962400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.152
+            JudgeTime: 199630
+            HoldEndTime: 199630
+            PromptToneType: 0
+            ViewJudgeTime: 15970400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.25
+            JudgeTime: 199730
+            HoldEndTime: 199730
+            PromptToneType: 0
+            ViewJudgeTime: 15978400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.351
+            JudgeTime: 199830
+            HoldEndTime: 199830
+            PromptToneType: 0
+            ViewJudgeTime: 15986400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.449
+            JudgeTime: 199930
+            HoldEndTime: 199930
+            PromptToneType: 0
+            ViewJudgeTime: 15994400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 200030
+            HoldEndTime: 200430
+            PromptToneType: 0
+            ViewJudgeTime: 16002400
+            HoldViewEndTime: 16034400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 200030
+            HoldEndTime: 200430
+            PromptToneType: 0
+            ViewJudgeTime: 16002400
+            HoldViewEndTime: 16034400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 200630
+            HoldEndTime: 200930
+            PromptToneType: 0
+            ViewJudgeTime: 16050400
+            HoldViewEndTime: 16074400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 200630
+            HoldEndTime: 200930
+            PromptToneType: 0
+            ViewJudgeTime: 16050400
+            HoldViewEndTime: 16074400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 201030
+            HoldEndTime: 201330
+            PromptToneType: 0
+            ViewJudgeTime: 16082400
+            HoldViewEndTime: 16106400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 201030
+            HoldEndTime: 201330
+            PromptToneType: 0
+            ViewJudgeTime: 16082400
+            HoldViewEndTime: 16106400
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 201430
+            HoldEndTime: 201430
+            PromptToneType: 0
+            ViewJudgeTime: 16114400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 201630
+            HoldEndTime: 202430
+            PromptToneType: 0
+            ViewJudgeTime: 16130400
+            HoldViewEndTime: 16194400
+          - Type: 4
+            Pos: 2
+            JudgeTime: 202430
+            HoldEndTime: 202430
+            PromptToneType: 0
+            ViewJudgeTime: 16194400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 203230
+            HoldEndTime: 203630
+            PromptToneType: 0
+            ViewJudgeTime: 16258400
+            HoldViewEndTime: 16290400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 203230
+            HoldEndTime: 203630
+            PromptToneType: 0
+            ViewJudgeTime: 16258400
+            HoldViewEndTime: 16290400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 203830
+            HoldEndTime: 204130
+            PromptToneType: 0
+            ViewJudgeTime: 16306400
+            HoldViewEndTime: 16330400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 203830
+            HoldEndTime: 204130
+            PromptToneType: 0
+            ViewJudgeTime: 16306400
+            HoldViewEndTime: 16330400
+          - Type: 1
+            Pos: 0.152
+            JudgeTime: 204230
+            HoldEndTime: 204530
+            PromptToneType: 0
+            ViewJudgeTime: 16338400
+            HoldViewEndTime: 16362400
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 204230
+            HoldEndTime: 204530
+            PromptToneType: 0
+            ViewJudgeTime: 16338400
+            HoldViewEndTime: 16362400
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 204630
+            HoldEndTime: 204630
+            PromptToneType: 0
+            ViewJudgeTime: 16370400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 204830
+            HoldEndTime: 204830
+            PromptToneType: 0
+            ViewJudgeTime: 16386400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.648
+            JudgeTime: 204830
+            HoldEndTime: 205630
+            PromptToneType: 0
+            ViewJudgeTime: 16386400
+            HoldViewEndTime: 16450400
+          - Type: 2
+            Pos: 0.203
+            JudgeTime: 204930
+            HoldEndTime: 204930
+            PromptToneType: 0
+            ViewJudgeTime: 16394400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 205030
+            HoldEndTime: 205030
+            PromptToneType: 0
+            ViewJudgeTime: 16402400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.402
+            JudgeTime: 205130
+            HoldEndTime: 205130
+            PromptToneType: 0
+            ViewJudgeTime: 16410400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 205230
+            HoldEndTime: 205230
+            PromptToneType: 0
+            ViewJudgeTime: 16418400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.203
+            JudgeTime: 205330
+            HoldEndTime: 205330
+            PromptToneType: 0
+            ViewJudgeTime: 16426400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 205430
+            HoldEndTime: 205430
+            PromptToneType: 0
+            ViewJudgeTime: 16434400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.402
+            JudgeTime: 205530
+            HoldEndTime: 205530
+            PromptToneType: 0
+            ViewJudgeTime: 16442400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 205630
+            HoldEndTime: 205630
+            PromptToneType: 0
+            ViewJudgeTime: 16450400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 206030
+            HoldEndTime: 206030
+            PromptToneType: 0
+            ViewJudgeTime: 16482400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 206130
+            HoldEndTime: 206130
+            PromptToneType: 0
+            ViewJudgeTime: 16490400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 206230
+            HoldEndTime: 206230
+            PromptToneType: 0
+            ViewJudgeTime: 16498400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 206330
+            HoldEndTime: 206330
+            PromptToneType: 0
+            ViewJudgeTime: 16506400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 206630
+            HoldEndTime: 206630
+            PromptToneType: 0
+            ViewJudgeTime: 16530400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 206730
+            HoldEndTime: 206730
+            PromptToneType: 0
+            ViewJudgeTime: 16538400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 206830
+            HoldEndTime: 206830
+            PromptToneType: 0
+            ViewJudgeTime: 16546400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 206930
+            HoldEndTime: 206930
+            PromptToneType: 0
+            ViewJudgeTime: 16554400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 207030
+            HoldEndTime: 207030
+            PromptToneType: 0
+            ViewJudgeTime: 16562400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 207130
+            HoldEndTime: 207130
+            PromptToneType: 0
+            ViewJudgeTime: 16570400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 207230
+            HoldEndTime: 207230
+            PromptToneType: 0
+            ViewJudgeTime: 16578400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 207330
+            HoldEndTime: 207330
+            PromptToneType: 0
+            ViewJudgeTime: 16586400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 207430
+            HoldEndTime: 207430
+            PromptToneType: 0
+            ViewJudgeTime: 16594400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 207530
+            HoldEndTime: 207530
+            PromptToneType: 0
+            ViewJudgeTime: 16602400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 208030
+            HoldEndTime: 208030
+            PromptToneType: 0
+            ViewJudgeTime: 16642400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 208130
+            HoldEndTime: 208130
+            PromptToneType: 0
+            ViewJudgeTime: 16650400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 208230
+            HoldEndTime: 208230
+            PromptToneType: 0
+            ViewJudgeTime: 16658400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 208330
+            HoldEndTime: 208330
+            PromptToneType: 0
+            ViewJudgeTime: 16666400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 208430
+            HoldEndTime: 208430
+            PromptToneType: 0
+            ViewJudgeTime: 16674400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 208530
+            HoldEndTime: 208530
+            PromptToneType: 0
+            ViewJudgeTime: 16682400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 208630
+            HoldEndTime: 208630
+            PromptToneType: 0
+            ViewJudgeTime: 16690400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 208730
+            HoldEndTime: 208730
+            PromptToneType: 0
+            ViewJudgeTime: 16698400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 208830
+            HoldEndTime: 208830
+            PromptToneType: 0
+            ViewJudgeTime: 16706400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 209230
+            HoldEndTime: 209230
+            PromptToneType: 0
+            ViewJudgeTime: 16738400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 209330
+            HoldEndTime: 209330
+            PromptToneType: 0
+            ViewJudgeTime: 16746400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 209430
+            HoldEndTime: 209430
+            PromptToneType: 0
+            ViewJudgeTime: 16754400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 209530
+            HoldEndTime: 209530
+            PromptToneType: 0
+            ViewJudgeTime: 16762400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 209830
+            HoldEndTime: 209830
+            PromptToneType: 0
+            ViewJudgeTime: 16786400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 209930
+            HoldEndTime: 209930
+            PromptToneType: 0
+            ViewJudgeTime: 16794400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 210030
+            HoldEndTime: 210030
+            PromptToneType: 0
+            ViewJudgeTime: 16802400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 210130
+            HoldEndTime: 210130
+            PromptToneType: 0
+            ViewJudgeTime: 16810400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 210230
+            HoldEndTime: 210230
+            PromptToneType: 0
+            ViewJudgeTime: 16818400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 210330
+            HoldEndTime: 210330
+            PromptToneType: 0
+            ViewJudgeTime: 16826400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 210430
+            HoldEndTime: 210430
+            PromptToneType: 0
+            ViewJudgeTime: 16834400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 210530
+            HoldEndTime: 210530
+            PromptToneType: 0
+            ViewJudgeTime: 16842400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 210630
+            HoldEndTime: 210630
+            PromptToneType: 0
+            ViewJudgeTime: 16850400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 210730
+            HoldEndTime: 210730
+            PromptToneType: 0
+            ViewJudgeTime: 16858400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 211230
+            HoldEndTime: 211230
+            PromptToneType: 0
+            ViewJudgeTime: 16898400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 211330
+            HoldEndTime: 211330
+            PromptToneType: 0
+            ViewJudgeTime: 16906400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 211430
+            HoldEndTime: 211430
+            PromptToneType: 0
+            ViewJudgeTime: 16914400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 211530
+            HoldEndTime: 211530
+            PromptToneType: 0
+            ViewJudgeTime: 16922400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 211630
+            HoldEndTime: 211630
+            PromptToneType: 0
+            ViewJudgeTime: 16930400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 211730
+            HoldEndTime: 211730
+            PromptToneType: 0
+            ViewJudgeTime: 16938400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 211830
+            HoldEndTime: 211830
+            PromptToneType: 0
+            ViewJudgeTime: 16946400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 211930
+            HoldEndTime: 211930
+            PromptToneType: 0
+            ViewJudgeTime: 16954400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 212030
+            HoldEndTime: 212030
+            PromptToneType: 0
+            ViewJudgeTime: 16962400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 212430
+            HoldEndTime: 212430
+            PromptToneType: 0
+            ViewJudgeTime: 16994400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 212530
+            HoldEndTime: 212530
+            PromptToneType: 0
+            ViewJudgeTime: 17002400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 212630
+            HoldEndTime: 212630
+            PromptToneType: 0
+            ViewJudgeTime: 17010400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 212730
+            HoldEndTime: 212730
+            PromptToneType: 0
+            ViewJudgeTime: 17018400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 213030
+            HoldEndTime: 213030
+            PromptToneType: 0
+            ViewJudgeTime: 17042400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 213130
+            HoldEndTime: 213130
+            PromptToneType: 0
+            ViewJudgeTime: 17050400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 213230
+            HoldEndTime: 213230
+            PromptToneType: 0
+            ViewJudgeTime: 17058400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 213330
+            HoldEndTime: 213330
+            PromptToneType: 0
+            ViewJudgeTime: 17066400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 213430
+            HoldEndTime: 213430
+            PromptToneType: 0
+            ViewJudgeTime: 17074400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 213530
+            HoldEndTime: 213530
+            PromptToneType: 0
+            ViewJudgeTime: 17082400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 213630
+            HoldEndTime: 213630
+            PromptToneType: 0
+            ViewJudgeTime: 17090400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 213730
+            HoldEndTime: 213730
+            PromptToneType: 0
+            ViewJudgeTime: 17098400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 213830
+            HoldEndTime: 213830
+            PromptToneType: 0
+            ViewJudgeTime: 17106400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 213930
+            HoldEndTime: 213930
+            PromptToneType: 0
+            ViewJudgeTime: 17114400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 214430
+            HoldEndTime: 214430
+            PromptToneType: 0
+            ViewJudgeTime: 17154400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 214530
+            HoldEndTime: 214530
+            PromptToneType: 0
+            ViewJudgeTime: 17162400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 214630
+            HoldEndTime: 214630
+            PromptToneType: 0
+            ViewJudgeTime: 17170400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 214730
+            HoldEndTime: 214730
+            PromptToneType: 0
+            ViewJudgeTime: 17178400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 214830
+            HoldEndTime: 214830
+            PromptToneType: 0
+            ViewJudgeTime: 17186400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 214930
+            HoldEndTime: 214930
+            PromptToneType: 0
+            ViewJudgeTime: 17194400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 215030
+            HoldEndTime: 215030
+            PromptToneType: 0
+            ViewJudgeTime: 17202400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 215130
+            HoldEndTime: 215130
+            PromptToneType: 0
+            ViewJudgeTime: 17210400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 215230
+            HoldEndTime: 215230
+            PromptToneType: 0
+            ViewJudgeTime: 17218400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.699
+            JudgeTime: 215630
+            HoldEndTime: 215630
+            PromptToneType: 0
+            ViewJudgeTime: 17250400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.5
+            JudgeTime: 215730
+            HoldEndTime: 215730
+            PromptToneType: 0
+            ViewJudgeTime: 17258400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.3
+            JudgeTime: 215830
+            HoldEndTime: 215830
+            PromptToneType: 0
+            ViewJudgeTime: 17266400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.101
+            JudgeTime: 215930
+            HoldEndTime: 215930
+            PromptToneType: 0
+            ViewJudgeTime: 17274400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 217630
+            HoldEndTime: 217630
+            PromptToneType: 0
+            ViewJudgeTime: 17410400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 217830
+            HoldEndTime: 217830
+            PromptToneType: 0
+            ViewJudgeTime: 17426400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 218030
+            HoldEndTime: 218030
+            PromptToneType: 0
+            ViewJudgeTime: 17442400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 218230
+            HoldEndTime: 218230
+            PromptToneType: 0
+            ViewJudgeTime: 17458400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 218430
+            HoldEndTime: 218430
+            PromptToneType: 0
+            ViewJudgeTime: 17474400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 218430
+            HoldEndTime: 218430
+            PromptToneType: 0
+            ViewJudgeTime: 17474400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 218630
+            HoldEndTime: 218630
+            PromptToneType: 0
+            ViewJudgeTime: 17490400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 218830
+            HoldEndTime: 218830
+            PromptToneType: 0
+            ViewJudgeTime: 17506400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.351
+            JudgeTime: 219030
+            HoldEndTime: 219030
+            PromptToneType: 0
+            ViewJudgeTime: 17522400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 219230
+            HoldEndTime: 219230
+            PromptToneType: 0
+            ViewJudgeTime: 17538400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.25
+            JudgeTime: 219430
+            HoldEndTime: 219830
+            PromptToneType: 0
+            ViewJudgeTime: 17554400
+            HoldViewEndTime: 17586400
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 219830
+            HoldEndTime: 219830
+            PromptToneType: 0
+            ViewJudgeTime: 17586400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 220030
+            HoldEndTime: 220030
+            PromptToneType: 0
+            ViewJudgeTime: 17602400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 220030
+            HoldEndTime: 220030
+            PromptToneType: 0
+            ViewJudgeTime: 17602400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 220430
+            HoldEndTime: 220430
+            PromptToneType: 0
+            ViewJudgeTime: 17634400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 220630
+            HoldEndTime: 220630
+            PromptToneType: 0
+            ViewJudgeTime: 17650400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 220830
+            HoldEndTime: 220830
+            PromptToneType: 0
+            ViewJudgeTime: 17666400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 221030
+            HoldEndTime: 221030
+            PromptToneType: 0
+            ViewJudgeTime: 17682400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 221230
+            HoldEndTime: 221230
+            PromptToneType: 0
+            ViewJudgeTime: 17698400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 221430
+            HoldEndTime: 221430
+            PromptToneType: 0
+            ViewJudgeTime: 17714400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 221630
+            HoldEndTime: 221630
+            PromptToneType: 0
+            ViewJudgeTime: 17730400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 221630
+            HoldEndTime: 221630
+            PromptToneType: 0
+            ViewJudgeTime: 17730400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 221830
+            HoldEndTime: 221830
+            PromptToneType: 0
+            ViewJudgeTime: 17746400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 222030
+            HoldEndTime: 222030
+            PromptToneType: 0
+            ViewJudgeTime: 17762400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.351
+            JudgeTime: 222230
+            HoldEndTime: 222230
+            PromptToneType: 0
+            ViewJudgeTime: 17778400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 222430
+            HoldEndTime: 222430
+            PromptToneType: 0
+            ViewJudgeTime: 17794400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.25
+            JudgeTime: 222630
+            HoldEndTime: 223030
+            PromptToneType: 0
+            ViewJudgeTime: 17810400
+            HoldViewEndTime: 17842400
+          - Type: 4
+            Pos: 2
+            JudgeTime: 223230
+            HoldEndTime: 223230
+            PromptToneType: 0
+            ViewJudgeTime: 17858400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 223230
+            HoldEndTime: 223230
+            PromptToneType: 0
+            ViewJudgeTime: 17858400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 223630
+            HoldEndTime: 223630
+            PromptToneType: 0
+            ViewJudgeTime: 17890400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 223630
+            HoldEndTime: 223630
+            PromptToneType: 0
+            ViewJudgeTime: 17890400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 224030
+            HoldEndTime: 224030
+            PromptToneType: 0
+            ViewJudgeTime: 17922400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.402
+            JudgeTime: 224230
+            HoldEndTime: 224230
+            PromptToneType: 0
+            ViewJudgeTime: 17938400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 224430
+            HoldEndTime: 224430
+            PromptToneType: 0
+            ViewJudgeTime: 17954400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 224630
+            HoldEndTime: 224630
+            PromptToneType: 0
+            ViewJudgeTime: 17970400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 224830
+            HoldEndTime: 224830
+            PromptToneType: 0
+            ViewJudgeTime: 17986400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 224830
+            HoldEndTime: 224830
+            PromptToneType: 0
+            ViewJudgeTime: 17986400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 225030
+            HoldEndTime: 225030
+            PromptToneType: 0
+            ViewJudgeTime: 18002400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.351
+            JudgeTime: 225230
+            HoldEndTime: 225230
+            PromptToneType: 0
+            ViewJudgeTime: 18018400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.55
+            JudgeTime: 225430
+            HoldEndTime: 225430
+            PromptToneType: 0
+            ViewJudgeTime: 18034400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 225630
+            HoldEndTime: 225630
+            PromptToneType: 0
+            ViewJudgeTime: 18050400
+            HoldViewEndTime: 0
+          - Type: 1
+            Pos: 0.203
+            JudgeTime: 225830
+            HoldEndTime: 226230
+            PromptToneType: 0
+            ViewJudgeTime: 18066400
+            HoldViewEndTime: 18098400
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 226230
+            HoldEndTime: 226230
+            PromptToneType: 0
+            ViewJudgeTime: 18098400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 226430
+            HoldEndTime: 226430
+            PromptToneType: 0
+            ViewJudgeTime: 18114400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 226430
+            HoldEndTime: 226430
+            PromptToneType: 0
+            ViewJudgeTime: 18114400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 226630
+            HoldEndTime: 226630
+            PromptToneType: 0
+            ViewJudgeTime: 18130400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.25
+            JudgeTime: 226830
+            HoldEndTime: 226830
+            PromptToneType: 0
+            ViewJudgeTime: 18146400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 227230
+            HoldEndTime: 227230
+            PromptToneType: 0
+            ViewJudgeTime: 18178400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.203
+            JudgeTime: 227430
+            HoldEndTime: 227430
+            PromptToneType: 0
+            ViewJudgeTime: 18194400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.449
+            JudgeTime: 227630
+            HoldEndTime: 227630
+            PromptToneType: 0
+            ViewJudgeTime: 18210400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.351
+            JudgeTime: 227830
+            HoldEndTime: 227830
+            PromptToneType: 0
+            ViewJudgeTime: 18226400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 228030
+            HoldEndTime: 228030
+            PromptToneType: 0
+            ViewJudgeTime: 18242400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: -1
+            JudgeTime: 228030
+            HoldEndTime: 228030
+            PromptToneType: 0
+            ViewJudgeTime: 18242400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.648
+            JudgeTime: 228230
+            HoldEndTime: 228230
+            PromptToneType: 0
+            ViewJudgeTime: 18258400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.3
+            JudgeTime: 228430
+            HoldEndTime: 228430
+            PromptToneType: 0
+            ViewJudgeTime: 18274400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.5
+            JudgeTime: 228630
+            HoldEndTime: 228630
+            PromptToneType: 0
+            ViewJudgeTime: 18290400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.152
+            JudgeTime: 228830
+            HoldEndTime: 228830
+            PromptToneType: 0
+            ViewJudgeTime: 18306400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.601
+            JudgeTime: 229030
+            HoldEndTime: 229030
+            PromptToneType: 0
+            ViewJudgeTime: 18322400
+            HoldViewEndTime: 0
+          - Type: 4
+            Pos: 2
+            JudgeTime: 229630
+            HoldEndTime: 229630
+            PromptToneType: 0
+            ViewJudgeTime: 18370400
+            HoldViewEndTime: 0
+          - Type: 0
+            Pos: 0.004
+            JudgeTime: 229630
+            HoldEndTime: 229630
+            PromptToneType: 0
+            ViewJudgeTime: 18370400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.203
+            JudgeTime: 230030
+            HoldEndTime: 230030
+            PromptToneType: 0
+            ViewJudgeTime: 18402400
+            HoldViewEndTime: 0
+          - Type: 2
+            Pos: 0.601
+            JudgeTime: 230430
+            HoldEndTime: 230430
+            PromptToneType: 0
+            ViewJudgeTime: 18434400
             HoldViewEndTime: 0
     CameraTrackData:
       DefaultPosition: {x: 0, y: 0, z: 0}
