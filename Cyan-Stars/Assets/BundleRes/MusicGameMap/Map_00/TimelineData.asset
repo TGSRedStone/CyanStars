@@ -1888,8 +1888,8 @@ MonoBehaviour:
             PromptToneType: 0
             ViewJudgeTime: 6706400
             HoldViewEndTime: 0
-          - Type: 0
-            Pos: 0.004
+          - Type: 4
+            Pos: -1
             JudgeTime: 84030
             HoldEndTime: 84030
             PromptToneType: 0
@@ -2070,8 +2070,8 @@ MonoBehaviour:
             PromptToneType: 0
             ViewJudgeTime: 7218400
             HoldViewEndTime: 0
-          - Type: 0
-            Pos: 0.004
+          - Type: 4
+            Pos: -1
             JudgeTime: 90430
             HoldEndTime: 90430
             PromptToneType: 0
@@ -2168,8 +2168,8 @@ MonoBehaviour:
             PromptToneType: 0
             ViewJudgeTime: 7474400
             HoldViewEndTime: 0
-          - Type: 0
-            Pos: 0.004
+          - Type: 4
+            Pos: -1
             JudgeTime: 93630
             HoldEndTime: 93630
             PromptToneType: 0
@@ -2602,8 +2602,8 @@ MonoBehaviour:
             PromptToneType: 0
             ViewJudgeTime: 10418400
             HoldViewEndTime: 10466400
-          - Type: 0
-            Pos: 0.004
+          - Type: 4
+            Pos: -1
             JudgeTime: 130430
             HoldEndTime: 130430
             PromptToneType: 0
@@ -2791,8 +2791,8 @@ MonoBehaviour:
             PromptToneType: 0
             ViewJudgeTime: 10930400
             HoldViewEndTime: 0
-          - Type: 0
-            Pos: 0.004
+          - Type: 4
+            Pos: -1
             JudgeTime: 136830
             HoldEndTime: 136830
             PromptToneType: 0
@@ -2889,8 +2889,8 @@ MonoBehaviour:
             PromptToneType: 0
             ViewJudgeTime: 11186400
             HoldViewEndTime: 0
-          - Type: 0
-            Pos: 0.004
+          - Type: 4
+            Pos: -1
             JudgeTime: 140030
             HoldEndTime: 140030
             PromptToneType: 0
@@ -2987,8 +2987,8 @@ MonoBehaviour:
             PromptToneType: 0
             ViewJudgeTime: 11442400
             HoldViewEndTime: 0
-          - Type: 0
-            Pos: 0.004
+          - Type: 4
+            Pos: -1
             JudgeTime: 143230
             HoldEndTime: 143230
             PromptToneType: 0
@@ -3085,8 +3085,8 @@ MonoBehaviour:
             PromptToneType: 0
             ViewJudgeTime: 11698400
             HoldViewEndTime: 0
-          - Type: 0
-            Pos: 0.004
+          - Type: 4
+            Pos: -1
             JudgeTime: 146430
             HoldEndTime: 146430
             PromptToneType: 0
@@ -3176,8 +3176,8 @@ MonoBehaviour:
             PromptToneType: 0
             ViewJudgeTime: 11954400
             HoldViewEndTime: 0
-          - Type: 0
-            Pos: 0.004
+          - Type: 4
+            Pos: -1
             JudgeTime: 149630
             HoldEndTime: 149630
             PromptToneType: 0
@@ -3617,8 +3617,8 @@ MonoBehaviour:
             PromptToneType: 0
             ViewJudgeTime: 13250400
             HoldViewEndTime: 0
-          - Type: 0
-            Pos: 0.004
+          - Type: 4
+            Pos: -1
             JudgeTime: 165630
             HoldEndTime: 165630
             PromptToneType: 0
@@ -4534,8 +4534,8 @@ MonoBehaviour:
             PromptToneType: 0
             ViewJudgeTime: 15362400
             HoldViewEndTime: 15426400
-          - Type: 0
-            Pos: 0.004
+          - Type: 4
+            Pos: -1
             JudgeTime: 192830
             HoldEndTime: 192830
             PromptToneType: 0
@@ -5829,8 +5829,8 @@ MonoBehaviour:
             PromptToneType: 0
             ViewJudgeTime: 18370400
             HoldViewEndTime: 0
-          - Type: 0
-            Pos: 0.004
+          - Type: 4
+            Pos: -1
             JudgeTime: 229630
             HoldEndTime: 229630
             PromptToneType: 0
@@ -5855,4 +5855,43 @@ MonoBehaviour:
       DefaultRotation: {x: 0, y: 0, z: 0}
       KeyFrames: []
     EffectTrackData:
-      KeyFrames: []
+      KeyFrames:
+      - Type: 0
+        Time: 30
+        Index: 0
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0}
+        ParticleCount: 0
+        Duration: 31500
+        Color: {r: 1, g: 1, b: 1, a: 1}
+        Intensity: 0.4
+        Frequency: 0
+        MaxAlpha: 1
+        MinAlpha: 0
+        BPM: 37.5
+      - Type: 0
+        Time: 32030
+        Index: 0
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0}
+        ParticleCount: 0
+        Duration: 12800
+        Color: {r: 1, g: 1, b: 1, a: 1}
+        Intensity: 0.4
+        Frequency: 0
+        MaxAlpha: 1
+        MinAlpha: 0
+        BPM: 18.75
+      - Type: 0
+        Time: 44830
+        Index: 0
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0}
+        ParticleCount: 0
+        Duration: 999999
+        Color: {r: 1, g: 1, b: 1, a: 1}
+        Intensity: 0.4
+        Frequency: 0
+        MaxAlpha: 1
+        MinAlpha: 0
+        BPM: 37.5
