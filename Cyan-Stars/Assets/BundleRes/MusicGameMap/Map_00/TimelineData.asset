@@ -5862,7 +5862,7 @@ MonoBehaviour:
         Position: {x: 0, y: 0, z: 0}
         Rotation: {x: 0, y: 0, z: 0}
         ParticleCount: 0
-        Duration: 31500
+        Duration: 32000
         Color: {r: 1, g: 1, b: 1, a: 1}
         Intensity: 0.4
         Frequency: 0
@@ -5884,6 +5884,58 @@ MonoBehaviour:
         BPM: 18.75
       - Type: 0
         Time: 44830
+        Index: 0
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0}
+        ParticleCount: 0
+        Duration: 6400
+        Color: {r: 1, g: 1, b: 1, a: 1}
+        Intensity: 0.4
+        Frequency: 0
+        MaxAlpha: 1
+        MinAlpha: 0
+        BPM: 37.5
+      - Type: 0
+        Time: 51230
+        Index: 0
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0}
+        ParticleCount: 0
+        Duration: 3200
+        Color: {r: 1, g: 1, b: 1, a: 1}
+        Intensity: 0.4
+        Frequency: 0
+        MaxAlpha: 1
+        MinAlpha: 0.25
+        BPM: 75
+      - Type: 0
+        Time: 54430
+        Index: 0
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0}
+        ParticleCount: 0
+        Duration: 1600
+        Color: {r: 1, g: 1, b: 1, a: 1}
+        Intensity: 0.4
+        Frequency: 0
+        MaxAlpha: 1
+        MinAlpha: 0.5
+        BPM: 150
+      - Type: 0
+        Time: 56030
+        Index: 0
+        Position: {x: 0, y: 0, z: 0}
+        Rotation: {x: 0, y: 0, z: 0}
+        ParticleCount: 0
+        Duration: 1600
+        Color: {r: 1, g: 1, b: 1, a: 1}
+        Intensity: 0.4
+        Frequency: 0
+        MaxAlpha: 0
+        MinAlpha: 0
+        BPM: 37.5
+      - Type: 0
+        Time: 57630
         Index: 0
         Position: {x: 0, y: 0, z: 0}
         Rotation: {x: 0, y: 0, z: 0}
