@@ -299,7 +299,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!64 &173785816
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -874,7 +874,7 @@ Skybox:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 552719605}
   m_Enabled: 1
-  m_CustomSkybox: {fileID: 2100000, guid: 1173a1b0f37cd8a489ea6281262ae5b4, type: 2}
+  m_CustomSkybox: {fileID: 2100000, guid: 3cf76a7d1e8864042947b07056116f44, type: 2}
 --- !u!114 &552719611
 MonoBehaviour:
   m_ObjectHideFlags: 0
