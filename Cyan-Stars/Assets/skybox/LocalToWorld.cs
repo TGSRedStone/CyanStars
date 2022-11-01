@@ -12,7 +12,7 @@ public class LocalToWorld : MonoBehaviour
     public Material CloudMaterial;
     private Matrix4x4 LtoW_Matrix = Matrix4x4.identity;
     private static readonly int LtoW = Shader.PropertyToID("_LtoW");
-    
+
     [Range(1, 64)]
     public int SampleCount = 16;
 
@@ -36,19 +36,19 @@ public class LocalToWorld : MonoBehaviour
     public Color Color2 = new Color(10.6806269f,2.77130342f,0f,0f);
     [ColorUsage(false, true)]
     public Color Color3 = new Color(1.33507836f,1.33507836f,1.33507836f,0f);
-    
+
     private void Update()
     {
         LtoW_Matrix = DirectionalLight.localToWorldMatrix;
         SkyBoxMaterial.SetMatrix(LtoW, LtoW_Matrix);
-        
+
         SkyBoxMaterial.SetFloat("_AtmosphereHeight", AtmosphereHeight);
         SkyBoxMaterial.SetFloat("_PlanetRadius", PlanetRadius);
         SkyBoxMaterial.SetVector("_DensityScaleHeight", DensityScale);
 
         SkyBoxMaterial.SetVector("_ScatteringM", MieSct * MieScatterCoef);
         SkyBoxMaterial.SetVector("_ExtinctionM", MieSct * MieExtinctionCoef);
-        
+
         SkyBoxMaterial.SetColor("_IncomingLight", IncomingLight);
         SkyBoxMaterial.SetFloat("_MieG", MieG);
 
@@ -56,15 +56,15 @@ public class LocalToWorld : MonoBehaviour
         {
             var eulerAngles = DirectionalLight.eulerAngles;
             IncomingLight = Color.Lerp(Color1, Color2, eulerAngles.x % 330 / 30f);
-            CloudMaterial.SetColor("_Color", Color.Lerp(new Color(0.18f, 0.282f, 0.396f), new Color(0.117f, 0.349f, 0.529f),  eulerAngles.x % 330 / 30f));
-            CloudMaterial.SetFloat("_EdgePower", Mathf.Lerp(60, 40, eulerAngles.x % 330 / 30f));
+            // CloudMaterial.SetColor("_Color", Color.Lerp(new Color(0.18f, 0.282f, 0.396f), new Color(0.117f, 0.349f, 0.529f),  eulerAngles.x % 330 / 30f));
+            // CloudMaterial.SetFloat("_EdgePower", Mathf.Lerp(60, 40, eulerAngles.x % 330 / 30f));
         }
         if (DirectionalLight.eulerAngles.x <= 30 && DirectionalLight.eulerAngles.x >= 0)
         {
             var eulerAngles = DirectionalLight.eulerAngles;
             IncomingLight = Color.Lerp(Color2, Color3, eulerAngles.x / 30f);
-            CloudMaterial.SetColor("_Color", Color.Lerp(new Color(0.117f, 0.349f, 0.529f), new Color(0f, 0.486f, 0.788f), eulerAngles.x / 30f));
-            CloudMaterial.SetFloat("_EdgePower", Mathf.Lerp(40, 25, eulerAngles.x / 30f));
+            // CloudMaterial.SetColor("_Color", Color.Lerp(new Color(0.117f, 0.349f, 0.529f), new Color(0f, 0.486f, 0.788f), eulerAngles.x / 30f));
+            // CloudMaterial.SetFloat("_EdgePower", Mathf.Lerp(40, 25, eulerAngles.x / 30f));
         }
     }
 }
